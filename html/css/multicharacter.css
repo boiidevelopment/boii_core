@@ -1,0 +1,553 @@
+/*
+     ____   ____ _____ _____   _   _____  ________      ________ _      ____  _____  __  __ ______ _   _ _______ 
+    |  _ \ / __ \_   _|_   _| | | |  __ \|  ____\ \    / /  ____| |    / __ \|  __ \|  \/  |  ____| \ | |__   __|
+    | |_) | |  | || |   | |   | | | |  | | |__   \ \  / /| |__  | |   | |  | | |__) | \  / | |__  |  \| |  | |   
+    |  _ <| |  | || |   | |   | | | |  | |  __|   \ \/ / |  __| | |   | |  | |  ___/| |\/| |  __| | . ` |  | |   
+    | |_) | |__| || |_ _| |_  | | | |__| | |____   \  /  | |____| |___| |__| | |    | |  | | |____| |\  |  | |   
+    |____/ \____/_____|_____| | | |_____/|______|   \/   |______|______\____/|_|    |_|  |_|______|_| \_|  |_|   
+                              | |                                                                                
+                              |_|         ROLEPLAY FRAMEWORK BASE
+*/
+
+#mc_container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    font-family: 'Archivo Black';
+}
+
+.mc_panel {
+    position: absolute;
+    right: 10%;
+    height: fit-content;
+    max-height: 100vh;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mc_panel_header {
+    height: 15%;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: #b4b4b4;
+}
+
+.panel_header_chevron {
+    width: 10%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.panel_header_chevron i {
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+#panel_header_chevron_left {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#panel_header_chevron_right {
+    text-shadow: -2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.mc_panel_name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    text-transform: uppercase;
+}
+
+.panel_first_name {
+    font-size: 1.5rem;
+    margin-bottom: -5px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+.panel_last_name {
+    font-size: 2.5rem;
+    margin-top: -5px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+.panel_char_id {
+    position: absolute;
+    top: 5px;
+    right: 50px;
+    font-size: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 4px;
+}
+
+.mc_panel_body {
+    max-height: 66.3vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: #b4b4b4;
+    padding: 5%;
+}
+
+.mc_panel_buttons {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    margin-top: -12%;
+}
+
+.multichar_main_buttons {
+    min-height: 8vh; 
+    width: 90%;
+    border-radius: 20px;
+    background: #1f1e1e;
+    border: none;
+    box-shadow:
+        2px 2px 10px #0d0c0c,
+        -2px -2px 10px #2b2a2a;
+    text-transform: uppercase;
+    opacity: 0.95;
+    transition: transform 0.3s ease, opacity 0.3s ease, box-shadow 0.3s ease;
+    color: #b4b4b4;
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-family: inherit;
+    margin-top: 7%;
+}
+
+.multichar_main_buttons:hover {
+    transform: translateY(-5px);
+    box-shadow:
+    10px 10px 10px #0d0c0c,
+    -10px -10px 10px #2b2a2a;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.delete_char_buttons {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+}
+
+.multichar_delete_buttons {
+    min-height: 6vh; 
+    width: 98%;
+    border-radius: 20px;
+    background: #323030;
+    border: none;
+    box-shadow:
+        2px 2px 10px #0d0c0c,
+        -2px -2px 10px #2b2a2a;
+    text-transform: uppercase;
+    opacity: 0.95;
+    transition: transform 0.3s ease, opacity 0.3s ease, box-shadow 0.3s ease;
+    color: #b4b4b4;
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-family: inherit;
+    margin-top: 7%;
+}
+
+.multichar_delete_buttons:hover {
+    transform: translateY(-5px);
+    box-shadow:
+    10px 10px 10px #0d0c0c,
+    -10px -10px 10px #2b2a2a;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.tab_content {
+    display: none;
+    flex-direction: column;
+    align-items: flex-start; 
+    height: 32vh;
+    color: #b4b4b4;
+    background: #1f1e1e;
+    width: 90%;
+    opacity: 0.95;
+    border-radius: 20px;
+    box-shadow:
+        2px 2px 10px #0d0c0c,
+        -2px -2px 10px #2b2a2a;
+}
+
+.tab_inner_container {
+    height: 90%;
+    margin: 3%;
+    overflow-y: auto;
+}
+
+.char_info_row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.char_label {
+    font-weight: bold;
+    color: #b4b4b4;
+    margin: 3%;
+
+}
+
+.char_detail {
+    color: #b4b4b4;
+    text-align: left;
+    margin: 3%;
+}
+
+.char_info_tabs {
+    overflow: hidden;
+    display: flex;
+    background: #1f1e1e;
+    height: 5vh;
+    width: 90%;
+    opacity: 0.95;
+    border-radius: 20px;
+    box-shadow:
+        2px 2px 10px #0d0c0c,
+        -2px -2px 10px #2b2a2a;
+    margin-bottom: 6%;
+    justify-content: space-between;
+}
+
+.tab_button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+    flex-grow: 1;
+    text-align: center;
+    padding: 10px 0;
+    font-family: inherit;
+    color: #b4b4b4;
+}
+
+.tab_button:hover {
+    background-color: #313030;
+}
+
+.tab_button.active {
+    background-color: #151515;
+}
+
+.server_guide_container,
+.creation_character_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    height: 60%;
+    color: #b4b4b4;
+    background: #1f1e1e;
+    width: 90%;
+    opacity: 0.95;
+    border-radius: 20px;
+    box-shadow:
+        2px 2px 10px #0d0c0c,
+        -2px -2px 10px #2b2a2a; 
+    justify-content: space-between;
+    overflow-y: auto;
+}
+
+#identity_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+    width: 90%;
+    color: inherit;
+}
+
+#identity_form input,
+#identity_form textarea {
+    border-radius: 20px;
+    border: none;
+    margin: 2%;
+    height: 30px;
+    width: 100%;
+    padding: 10px;
+    background: #313030;
+    color: inherit;
+    outline: none;
+}
+
+#identity_form textarea {
+    height: 100px;
+    resize: none;
+    overflow-y: auto;
+}
+
+.sex_selection_container {
+    width: 100%;
+    display: flex;
+    margin: 2%;
+}
+
+.sex_button {
+    height: 30px;
+    border: none;
+    width: 100%;
+    opacity: 0.95;
+    background: #313030;
+    color: #b4b4b4;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.sex_button.male {
+    border-radius: 20px 0 0 20px;
+    border-right: 1px solid rgba(0,0,0,0.2);
+}
+
+.sex_button.female {
+    border-radius: 0 20px 20px 0;
+}
+
+.sex_button.active {
+    background: rgba(255, 255, 255, 0.12);
+}
+
+#barber_form,
+#tattoo_form,
+#clothing_form,
+#genetics_form {
+    overflow-y: auto;
+    width: 95%;
+    margin: 2%;
+}
+
+.option_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    color: inherit;
+}
+
+.option_container label {
+    color: #b4b4b4;
+    font-weight: bold;
+    flex: 2; 
+}
+
+.input_chevron_container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 2; 
+}
+
+.input_chevron_container input[type="number"] {
+    -moz-appearance: textfield;
+    border-radius: 20px;
+    border: none;
+    margin: 1%;
+    height: 30px;
+    width: 50px;
+    text-align: center;
+    background: #313030;
+    color: inherit;
+    font-weight: bold;
+    outline: none;
+}
+
+.option_container input::-webkit-outer-spin-button,
+.option_container input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.chevron {
+    border: none;
+    color: #b4b4b4;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 50%;
+    margin: 0 5px;
+    background: none;
+    opacity: 0.5
+}
+
+.chevron:hover {
+    opacity: 1.0
+}
+
+.clothing_feature_container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 2%;
+    width: 100%;
+    color: inherit;
+}
+
+.clothing_feature_container label {
+    color: #b4b4b4;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.barber_option_container,
+.tattoo_option_container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+}
+
+.tattoo_option_container input {
+    -moz-appearance: textfield;
+    border-radius: 20px;
+    border: none;
+    margin: 1%;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    background: #313030;
+    color: inherit;
+    font-weight: bold;
+    outline: none;
+}
+
+.keybinds_container,
+.server_rules_container {
+    width: 90%;
+    margin: 3%;
+    max-height: 20vh;
+    color: inherit;
+    overflow: auto;
+}
+
+.keybinds_container table,
+.server_rules_container table {
+    width: 100%;
+    color: inherit;
+}
+
+.server_rules_container h3,
+.keybinds_container h3 {
+    margin-bottom: 10px;
+    color: inherit;
+}
+
+.server_rules_container ul {
+    list-style-type: disc;
+}
+
+.keybinds_container table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.keybinds_container table th {
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.toolbar {
+    position: absolute;
+    left: 1%;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.toolbar_item {
+    position: relative;
+    display: flex;
+    padding: 1%;
+}
+
+.toolbar_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #1f1e1e;
+    opacity: 0.9;
+    font-size: 1.3rem;
+    color: #b4b4b4;
+    box-shadow:
+        2px 2px 6px #0d0c0c,
+        -2px -2px 6px #2b2a2a; 
+}
+
+.toolbar_options i,
+.toolbar_icon i {
+    padding: 3px;
+    opacity: 0.5;
+}
+
+.toolbar_icon i:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.toolbar_options {
+    background-color: #1f1e1e;
+    opacity: 0.90;
+    border-radius: 15px;
+    box-shadow:
+        2px 2px 6px #0d0c0c,
+        -2px -2px 6px #2b2a2a; 
+    display: flex;
+    flex-direction: row;
+    transform: translateX(10%);
+    color: #b4b4b4;
+    align-items: center;
+    justify-content: center;
+}
+
+.toolbar_options div {
+    padding: 8px 12px;
+    position: relative;
+}
+
+.toolbar_options div:not(:first-child)::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    height: 50%;
+    width: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    top: 25%;
+}
+
+.toolbar_options i:hover {
+    opacity: 1;
+    cursor: pointer;
+}

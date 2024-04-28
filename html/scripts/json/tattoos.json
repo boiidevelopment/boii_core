@@ -1,0 +1,6048 @@
+{
+  "ZONE_TORSO": [
+    {
+      "name": "TAT_AR_000",
+      "label": "Turbulence",
+      "hash_male": "MP_Airraces_Tattoo_000_M",
+      "hash_female": "MP_Airraces_Tattoo_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_AR_001",
+      "label": "Pilot Skull",
+      "hash_male": "MP_Airraces_Tattoo_001_M",
+      "hash_female": "MP_Airraces_Tattoo_001_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_AR_002",
+      "label": "Winged Bombshell",
+      "hash_male": "MP_Airraces_Tattoo_002_M",
+      "hash_female": "MP_Airraces_Tattoo_002_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_AR_004",
+      "label": "Balloon Pioneer",
+      "hash_male": "MP_Airraces_Tattoo_004_M",
+      "hash_female": "MP_Airraces_Tattoo_004_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_AR_005",
+      "label": "Parachute Belle",
+      "hash_male": "MP_Airraces_Tattoo_005_M",
+      "hash_female": "MP_Airraces_Tattoo_005_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_AR_006",
+      "label": "Bombs Away",
+      "hash_male": "MP_Airraces_Tattoo_006_M",
+      "hash_female": "MP_Airraces_Tattoo_006_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_AR_007",
+      "label": "Eagle Eyes",
+      "hash_male": "MP_Airraces_Tattoo_007_M",
+      "hash_female": "MP_Airraces_Tattoo_007_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_BB_018",
+      "label": "Ship Arms",
+      "hash_male": "MP_Bea_M_Back_000",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_019",
+      "label": "Tribal Hammerhead",
+      "hash_male": "MP_Bea_M_Chest_000",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_020",
+      "label": "Tribal Shark",
+      "hash_male": "MP_Bea_M_Chest_001",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_023",
+      "label": "Swordfish",
+      "hash_male": "MP_Bea_M_Stom_000",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_032",
+      "label": "Wheel",
+      "hash_male": "MP_Bea_M_Stom_001",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_003",
+      "label": "Rock Solid",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Back_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_001",
+      "label": "Hibiscus Flower Duo",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Back_001",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_005",
+      "label": "Shrimp",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Back_002",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_012",
+      "label": "Anchor",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Chest_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_013",
+      "label": "Anchor",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Chest_001",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_000",
+      "label": "Los Santos Wreath",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Chest_002",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_006",
+      "label": "Love Dagger",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_RSide_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_011",
+      "label": "Sea Horses",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Should_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_004",
+      "label": "Catfish",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Should_001",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_014",
+      "label": "Swallow",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Stom_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_009",
+      "label": "Hibiscus Flower",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Stom_001",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_010",
+      "label": "Dolphin",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Stom_002",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BI_000",
+      "label": "Demon Rider",
+      "hash_male": "MP_MP_Biker_Tat_000_M",
+      "hash_female": "MP_MP_Biker_Tat_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_001",
+      "label": "Both Barrels",
+      "hash_male": "MP_MP_Biker_Tat_001_M",
+      "hash_female": "MP_MP_Biker_Tat_001_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_003",
+      "label": "Web Rider",
+      "hash_male": "MP_MP_Biker_Tat_003_M",
+      "hash_female": "MP_MP_Biker_Tat_003_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_005",
+      "label": "Made In America",
+      "hash_male": "MP_MP_Biker_Tat_005_M",
+      "hash_female": "MP_MP_Biker_Tat_005_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_006",
+      "label": "Chopper Freedom",
+      "hash_male": "MP_MP_Biker_Tat_006_M",
+      "hash_female": "MP_MP_Biker_Tat_006_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_008",
+      "label": "Freedom Wheels",
+      "hash_male": "MP_MP_Biker_Tat_008_M",
+      "hash_female": "MP_MP_Biker_Tat_008_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_010",
+      "label": "Skull Of Taurus",
+      "hash_male": "MP_MP_Biker_Tat_010_M",
+      "hash_female": "MP_MP_Biker_Tat_010_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_011",
+      "label": "R.I.P. My Brothers",
+      "hash_male": "MP_MP_Biker_Tat_011_M",
+      "hash_female": "MP_MP_Biker_Tat_011_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_013",
+      "label": "Demon Crossbones",
+      "hash_male": "MP_MP_Biker_Tat_013_M",
+      "hash_female": "MP_MP_Biker_Tat_013_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_017",
+      "label": "Clawed Beast",
+      "hash_male": "MP_MP_Biker_Tat_017_M",
+      "hash_female": "MP_MP_Biker_Tat_017_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_018",
+      "label": "Skeletal Chopper",
+      "hash_male": "MP_MP_Biker_Tat_018_M",
+      "hash_female": "MP_MP_Biker_Tat_018_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_019",
+      "label": "Gruesome Talons",
+      "hash_male": "MP_MP_Biker_Tat_019_M",
+      "hash_female": "MP_MP_Biker_Tat_019_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_021",
+      "label": "Flaming Reaper",
+      "hash_male": "MP_MP_Biker_Tat_021_M",
+      "hash_female": "MP_MP_Biker_Tat_021_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_023",
+      "label": "Western MC",
+      "hash_male": "MP_MP_Biker_Tat_023_M",
+      "hash_female": "MP_MP_Biker_Tat_023_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_026",
+      "label": "American Dream",
+      "hash_male": "MP_MP_Biker_Tat_026_M",
+      "hash_female": "MP_MP_Biker_Tat_026_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_029",
+      "label": "Bone Wrench",
+      "hash_male": "MP_MP_Biker_Tat_029_M",
+      "hash_female": "MP_MP_Biker_Tat_029_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_030",
+      "label": "Brothers For Life",
+      "hash_male": "MP_MP_Biker_Tat_030_M",
+      "hash_female": "MP_MP_Biker_Tat_030_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_031",
+      "label": "Gear Head",
+      "hash_male": "MP_MP_Biker_Tat_031_M",
+      "hash_female": "MP_MP_Biker_Tat_031_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_032",
+      "label": "Western Eagle",
+      "hash_male": "MP_MP_Biker_Tat_032_M",
+      "hash_female": "MP_MP_Biker_Tat_032_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_034",
+      "label": "Brotherhood of Bikes",
+      "hash_male": "MP_MP_Biker_Tat_034_M",
+      "hash_female": "MP_MP_Biker_Tat_034_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_039",
+      "label": "Gas Guzzler",
+      "hash_male": "MP_MP_Biker_Tat_039_M",
+      "hash_female": "MP_MP_Biker_Tat_039_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_041",
+      "label": "No Regrets",
+      "hash_male": "MP_MP_Biker_Tat_041_M",
+      "hash_female": "MP_MP_Biker_Tat_041_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_043",
+      "label": "Ride Forever",
+      "hash_male": "MP_MP_Biker_Tat_043_M",
+      "hash_female": "MP_MP_Biker_Tat_043_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_050",
+      "label": "Unforgiven",
+      "hash_male": "MP_MP_Biker_Tat_050_M",
+      "hash_female": "MP_MP_Biker_Tat_050_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_052",
+      "label": "Biker Mount",
+      "hash_male": "MP_MP_Biker_Tat_052_M",
+      "hash_female": "MP_MP_Biker_Tat_052_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_058",
+      "label": "Reaper Vulture",
+      "hash_male": "MP_MP_Biker_Tat_058_M",
+      "hash_female": "MP_MP_Biker_Tat_058_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_059",
+      "label": "Faggio",
+      "hash_male": "MP_MP_Biker_Tat_059_M",
+      "hash_female": "MP_MP_Biker_Tat_059_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_060",
+      "label": "We Are The Mods!",
+      "hash_male": "MP_MP_Biker_Tat_060_M",
+      "hash_female": "MP_MP_Biker_Tat_060_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BUS_011",
+      "label": "Refined Hustler",
+      "hash_male": "MP_Buis_M_Stomach_000",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_001",
+      "label": "Rich",
+      "hash_male": "MP_Buis_M_Chest_000",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_002",
+      "label": "$$$",
+      "hash_male": "MP_Buis_M_Chest_001",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_000",
+      "label": "Makin' Paper",
+      "hash_male": "MP_Buis_M_Back_000",
+      "hash_female": "",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_002",
+      "label": "High Roller",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Chest_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_003",
+      "label": "Makin' Money",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Chest_001",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_004",
+      "label": "Love Money",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Chest_002",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_011",
+      "label": "Diamond Back",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Stom_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_012",
+      "label": "Santo Capra Logo",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Stom_001",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_013",
+      "label": "Money Bag",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Stom_002",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_000",
+      "label": "Respect",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Back_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_001",
+      "label": "Gold Digger",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Back_001",
+      "zone": "ZONE_TORSO",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_H27_000",
+      "label": "Thor & Goblin",
+      "hash_male": "MP_Christmas2017_Tattoo_000_M",
+      "hash_female": "MP_Christmas2017_Tattoo_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_002",
+      "label": "Kabuto",
+      "hash_male": "MP_Christmas2017_Tattoo_002_M",
+      "hash_female": "MP_Christmas2017_Tattoo_002_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_003",
+      "label": "Native Warrior",
+      "hash_male": "MP_Christmas2017_Tattoo_003_M",
+      "hash_female": "MP_Christmas2017_Tattoo_003_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_005",
+      "label": "Ghost Dragon",
+      "hash_male": "MP_Christmas2017_Tattoo_005_M",
+      "hash_female": "MP_Christmas2017_Tattoo_005_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_008",
+      "label": "Spartan Warrior",
+      "hash_male": "MP_Christmas2017_Tattoo_008_M",
+      "hash_female": "MP_Christmas2017_Tattoo_008_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_009",
+      "label": "Norse Rune",
+      "hash_male": "MP_Christmas2017_Tattoo_009_M",
+      "hash_female": "MP_Christmas2017_Tattoo_009_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_010",
+      "label": "Spartan Shield",
+      "hash_male": "MP_Christmas2017_Tattoo_010_M",
+      "hash_female": "MP_Christmas2017_Tattoo_010_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_011",
+      "label": "Weathered Skull",
+      "hash_male": "MP_Christmas2017_Tattoo_011_M",
+      "hash_female": "MP_Christmas2017_Tattoo_011_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_015",
+      "label": "Samurai Combat",
+      "hash_male": "MP_Christmas2017_Tattoo_015_M",
+      "hash_female": "MP_Christmas2017_Tattoo_015_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_016",
+      "label": "Odin & Raven",
+      "hash_male": "MP_Christmas2017_Tattoo_016_M",
+      "hash_female": "MP_Christmas2017_Tattoo_016_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_019",
+      "label": "Strike Force",
+      "hash_male": "MP_Christmas2017_Tattoo_019_M",
+      "hash_female": "MP_Christmas2017_Tattoo_019_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_020",
+      "label": "Medusa's Gaze",
+      "hash_male": "MP_Christmas2017_Tattoo_020_M",
+      "hash_female": "MP_Christmas2017_Tattoo_020_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_021",
+      "label": "Spartan & Lion",
+      "hash_male": "MP_Christmas2017_Tattoo_021_M",
+      "hash_female": "MP_Christmas2017_Tattoo_021_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_022",
+      "label": "Spartan & Horse",
+      "hash_male": "MP_Christmas2017_Tattoo_022_M",
+      "hash_female": "MP_Christmas2017_Tattoo_022_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_024",
+      "label": "Dragon Slayer",
+      "hash_male": "MP_Christmas2017_Tattoo_024_M",
+      "hash_female": "MP_Christmas2017_Tattoo_024_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_026",
+      "label": "Spartan Skull",
+      "hash_male": "MP_Christmas2017_Tattoo_026_M",
+      "hash_female": "MP_Christmas2017_Tattoo_026_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_027",
+      "label": "Molon Labe",
+      "hash_male": "MP_Christmas2017_Tattoo_027_M",
+      "hash_female": "MP_Christmas2017_Tattoo_027_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_AW_000",
+      "label": "???",
+      "hash_male": "MP_Christmas2018_Tat_000_M",
+      "hash_female": "MP_Christmas2018_Tat_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2018_overlays"
+    },
+    {
+      "name": "TAT_X2_005",
+      "label": "Carp Outline",
+      "hash_male": "MP_Xmas2_M_Tat_005",
+      "hash_female": "MP_Xmas2_F_Tat_005",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_006",
+      "label": "Carp Shaded",
+      "hash_male": "MP_Xmas2_M_Tat_006",
+      "hash_female": "MP_Xmas2_F_Tat_006",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_009",
+      "label": "Time To Die",
+      "hash_male": "MP_Xmas2_M_Tat_009",
+      "hash_female": "MP_Xmas2_F_Tat_009",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_011",
+      "label": "Roaring Tiger",
+      "hash_male": "MP_Xmas2_M_Tat_011",
+      "hash_female": "MP_Xmas2_F_Tat_011",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_013",
+      "label": "Lizard",
+      "hash_male": "MP_Xmas2_M_Tat_013",
+      "hash_female": "MP_Xmas2_F_Tat_013",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_015",
+      "label": "Japanese Warrior",
+      "hash_male": "MP_Xmas2_M_Tat_015",
+      "hash_female": "MP_Xmas2_F_Tat_015",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_016",
+      "label": "Loose Lips Outline",
+      "hash_male": "MP_Xmas2_M_Tat_016",
+      "hash_female": "MP_Xmas2_F_Tat_016",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_017",
+      "label": "Loose Lips Color",
+      "hash_male": "MP_Xmas2_M_Tat_017",
+      "hash_female": "MP_Xmas2_F_Tat_017",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_018",
+      "label": "Royal Dagger Outline",
+      "hash_male": "MP_Xmas2_M_Tat_018",
+      "hash_female": "MP_Xmas2_F_Tat_018",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_019",
+      "label": "Royal Dagger Color",
+      "hash_male": "MP_Xmas2_M_Tat_019",
+      "hash_female": "MP_Xmas2_F_Tat_019",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_028",
+      "label": "Executioner",
+      "hash_male": "MP_Xmas2_M_Tat_028",
+      "hash_female": "MP_Xmas2_F_Tat_028",
+      "zone": "ZONE_TORSO",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_GR_000",
+      "label": "Bullet Proof",
+      "hash_male": "MP_Gunrunning_Tattoo_000_M",
+      "hash_female": "MP_Gunrunning_Tattoo_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_001",
+      "label": "Crossed Weapons",
+      "hash_male": "MP_Gunrunning_Tattoo_001_M",
+      "hash_female": "MP_Gunrunning_Tattoo_001_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_009",
+      "label": "Butterfly Knife",
+      "hash_male": "MP_Gunrunning_Tattoo_009_M",
+      "hash_female": "MP_Gunrunning_Tattoo_009_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_010",
+      "label": "Cash Money",
+      "hash_male": "MP_Gunrunning_Tattoo_010_M",
+      "hash_female": "MP_Gunrunning_Tattoo_010_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_012",
+      "label": "Dollar Daggers",
+      "hash_male": "MP_Gunrunning_Tattoo_012_M",
+      "hash_female": "MP_Gunrunning_Tattoo_012_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_013",
+      "label": "Wolf Insignia",
+      "hash_male": "MP_Gunrunning_Tattoo_013_M",
+      "hash_female": "MP_Gunrunning_Tattoo_013_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_014",
+      "label": "Backstabber",
+      "hash_male": "MP_Gunrunning_Tattoo_014_M",
+      "hash_female": "MP_Gunrunning_Tattoo_014_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_017",
+      "label": "Dog Tags",
+      "hash_male": "MP_Gunrunning_Tattoo_017_M",
+      "hash_female": "MP_Gunrunning_Tattoo_017_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_018",
+      "label": "Dual Wield Skull",
+      "hash_male": "MP_Gunrunning_Tattoo_018_M",
+      "hash_female": "MP_Gunrunning_Tattoo_018_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_019",
+      "label": "Pistol Wings",
+      "hash_male": "MP_Gunrunning_Tattoo_019_M",
+      "hash_female": "MP_Gunrunning_Tattoo_019_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_020",
+      "label": "Crowned Weapons",
+      "hash_male": "MP_Gunrunning_Tattoo_020_M",
+      "hash_female": "MP_Gunrunning_Tattoo_020_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_022",
+      "label": "Explosive Heart",
+      "hash_male": "MP_Gunrunning_Tattoo_022_M",
+      "hash_female": "MP_Gunrunning_Tattoo_022_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_028",
+      "label": "Micro SMG Chain",
+      "hash_male": "MP_Gunrunning_Tattoo_028_M",
+      "hash_female": "MP_Gunrunning_Tattoo_028_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_029",
+      "label": "Win Some Lose Some",
+      "hash_male": "MP_Gunrunning_Tattoo_029_M",
+      "hash_female": "MP_Gunrunning_Tattoo_029_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_H3_023",
+      "label": "Bigfoot",
+      "hash_male": "mpHeist3_Tat_023_M",
+      "hash_female": "mpHeist3_Tat_023_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_024",
+      "label": "Mount Chiliad",
+      "hash_male": "mpHeist3_Tat_024_M",
+      "hash_female": "mpHeist3_Tat_024_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_025",
+      "label": "Davis",
+      "hash_male": "mpHeist3_Tat_025_M",
+      "hash_female": "mpHeist3_Tat_025_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_026",
+      "label": "Dignity",
+      "hash_male": "mpHeist3_Tat_026_M",
+      "hash_female": "mpHeist3_Tat_026_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_027",
+      "label": "Epsilon",
+      "hash_male": "mpHeist3_Tat_027_M",
+      "hash_female": "mpHeist3_Tat_027_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_028",
+      "label": "Bananas Gone Bad",
+      "hash_male": "mpHeist3_Tat_028_M",
+      "hash_female": "mpHeist3_Tat_028_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_029",
+      "label": "Fatal Incursion",
+      "hash_male": "mpHeist3_Tat_029_M",
+      "hash_female": "mpHeist3_Tat_029_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_030",
+      "label": "Howitzer",
+      "hash_male": "mpHeist3_Tat_030_M",
+      "hash_female": "mpHeist3_Tat_030_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_033",
+      "label": "LS City",
+      "hash_male": "mpHeist3_Tat_033_M",
+      "hash_female": "mpHeist3_Tat_033_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_035",
+      "label": "LS Panic",
+      "hash_male": "mpHeist3_Tat_035_M",
+      "hash_female": "mpHeist3_Tat_035_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_036",
+      "label": "LS Shield",
+      "hash_male": "mpHeist3_Tat_036_M",
+      "hash_female": "mpHeist3_Tat_036_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_037",
+      "label": "Ladybug",
+      "hash_male": "mpHeist3_Tat_037_M",
+      "hash_female": "mpHeist3_Tat_037_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_038",
+      "label": "Robot Bubblegum",
+      "hash_male": "mpHeist3_Tat_038_M",
+      "hash_female": "mpHeist3_Tat_038_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_039",
+      "label": "Space Rangers",
+      "hash_male": "mpHeist3_Tat_039_M",
+      "hash_female": "mpHeist3_Tat_039_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H4_004",
+      "label": "Skeleton Breeze",
+      "hash_male": "MP_Heist4_Tat_004_M",
+      "hash_female": "MP_Heist4_Tat_004_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_013",
+      "label": "Wild Dancers",
+      "hash_male": "MP_Heist4_Tat_013_M",
+      "hash_female": "MP_Heist4_Tat_013_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_014",
+      "label": "Paradise Nap",
+      "hash_male": "MP_Heist4_Tat_014_M",
+      "hash_female": "MP_Heist4_Tat_014_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_015",
+      "label": "Paradise Ukulele",
+      "hash_male": "MP_Heist4_Tat_015_M",
+      "hash_female": "MP_Heist4_Tat_015_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_016",
+      "label": "Rose Panther",
+      "hash_male": "MP_Heist4_Tat_016_M",
+      "hash_female": "MP_Heist4_Tat_016_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_017",
+      "label": "Tropical Sorcerer",
+      "hash_male": "MP_Heist4_Tat_017_M",
+      "hash_female": "MP_Heist4_Tat_017_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_018",
+      "label": "Record Head",
+      "hash_male": "MP_Heist4_Tat_018_M",
+      "hash_female": "MP_Heist4_Tat_018_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_019",
+      "label": "Record Shot",
+      "hash_male": "MP_Heist4_Tat_019_M",
+      "hash_female": "MP_Heist4_Tat_019_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_020",
+      "label": "Speaker Tower",
+      "hash_male": "MP_Heist4_Tat_020_M",
+      "hash_female": "MP_Heist4_Tat_020_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_021",
+      "label": "Skull Surfer",
+      "hash_male": "MP_Heist4_Tat_021_M",
+      "hash_female": "MP_Heist4_Tat_021_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_022",
+      "label": "Paradise Sirens",
+      "hash_male": "MP_Heist4_Tat_022_M",
+      "hash_female": "MP_Heist4_Tat_022_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_023",
+      "label": "Techno Glitch",
+      "hash_male": "MP_Heist4_Tat_023_M",
+      "hash_female": "MP_Heist4_Tat_023_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_030",
+      "label": "Radio Tape",
+      "hash_male": "MP_Heist4_Tat_030_M",
+      "hash_female": "MP_Heist4_Tat_030_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_HP_000",
+      "label": "Crossed Arrows",
+      "hash_male": "FM_Hip_M_Tat_000",
+      "hash_female": "FM_Hip_F_Tat_000",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_002",
+      "label": "Chemistry",
+      "hash_male": "FM_Hip_M_Tat_002",
+      "hash_female": "FM_Hip_F_Tat_002",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_006",
+      "label": "Feather Birds",
+      "hash_male": "FM_Hip_M_Tat_006",
+      "hash_female": "FM_Hip_F_Tat_006",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_011",
+      "label": "Infinity",
+      "hash_male": "FM_Hip_M_Tat_011",
+      "hash_female": "FM_Hip_F_Tat_011",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_012",
+      "label": "Antlers",
+      "hash_male": "FM_Hip_M_Tat_012",
+      "hash_female": "FM_Hip_F_Tat_012",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_013",
+      "label": "Boombox",
+      "hash_male": "FM_Hip_M_Tat_013",
+      "hash_female": "FM_Hip_F_Tat_013",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_024",
+      "label": "Pyramid",
+      "hash_male": "FM_Hip_M_Tat_024",
+      "hash_female": "FM_Hip_F_Tat_024",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_025",
+      "label": "Watch Your Step",
+      "hash_male": "FM_Hip_M_Tat_025",
+      "hash_female": "FM_Hip_F_Tat_025",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_029",
+      "label": "Sad",
+      "hash_male": "FM_Hip_M_Tat_029",
+      "hash_female": "FM_Hip_F_Tat_029",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_030",
+      "label": "Shark Fin",
+      "hash_male": "FM_Hip_M_Tat_030",
+      "hash_female": "FM_Hip_F_Tat_030",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_031",
+      "label": "Skateboard",
+      "hash_male": "FM_Hip_M_Tat_031",
+      "hash_female": "FM_Hip_F_Tat_031",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_032",
+      "label": "Paper Plane",
+      "hash_male": "FM_Hip_M_Tat_032",
+      "hash_female": "FM_Hip_F_Tat_032",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_033",
+      "label": "Stag",
+      "hash_male": "FM_Hip_M_Tat_033",
+      "hash_female": "FM_Hip_F_Tat_033",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_035",
+      "label": "Sewn Heart",
+      "hash_male": "FM_Hip_M_Tat_035",
+      "hash_female": "FM_Hip_F_Tat_035",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_041",
+      "label": "Tooth",
+      "hash_male": "FM_Hip_M_Tat_041",
+      "hash_female": "FM_Hip_F_Tat_041",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_046",
+      "label": "Triangles",
+      "hash_male": "FM_Hip_M_Tat_046",
+      "hash_female": "FM_Hip_F_Tat_046",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_047",
+      "label": "Cassette",
+      "hash_male": "FM_Hip_M_Tat_047",
+      "hash_female": "FM_Hip_F_Tat_047",
+      "zone": "ZONE_TORSO",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_IE_000",
+      "label": "Block Back",
+      "hash_male": "MP_MP_ImportExport_Tat_000_M",
+      "hash_female": "MP_MP_ImportExport_Tat_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_001",
+      "label": "Power Plant",
+      "hash_male": "MP_MP_ImportExport_Tat_001_M",
+      "hash_female": "MP_MP_ImportExport_Tat_001_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_002",
+      "label": "Tuned to Death",
+      "hash_male": "MP_MP_ImportExport_Tat_002_M",
+      "hash_female": "MP_MP_ImportExport_Tat_002_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_009",
+      "label": "Serpents of Destruction",
+      "hash_male": "MP_MP_ImportExport_Tat_009_M",
+      "hash_female": "MP_MP_ImportExport_Tat_009_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_010",
+      "label": "Take the Wheel",
+      "hash_male": "MP_MP_ImportExport_Tat_010_M",
+      "hash_female": "MP_MP_ImportExport_Tat_010_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_011",
+      "label": "Talk Shit Get Hit",
+      "hash_male": "MP_MP_ImportExport_Tat_011_M",
+      "hash_female": "MP_MP_ImportExport_Tat_011_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_S2_000",
+      "label": "SA Assault",
+      "hash_male": "MP_LR_Tat_000_M",
+      "hash_female": "MP_LR_Tat_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_008",
+      "label": "Love the Game",
+      "hash_male": "MP_LR_Tat_008_M",
+      "hash_female": "MP_LR_Tat_008_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_011",
+      "label": "Lady Liberty",
+      "hash_male": "MP_LR_Tat_011_M",
+      "hash_female": "MP_LR_Tat_011_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_012",
+      "label": "Royal Kiss",
+      "hash_male": "MP_LR_Tat_012_M",
+      "hash_female": "MP_LR_Tat_012_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_016",
+      "label": "Two Face",
+      "hash_male": "MP_LR_Tat_016_M",
+      "hash_female": "MP_LR_Tat_016_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_019",
+      "label": "Death Behind",
+      "hash_male": "MP_LR_Tat_019_M",
+      "hash_female": "MP_LR_Tat_019_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_031",
+      "label": "Dead Pretty",
+      "hash_male": "MP_LR_Tat_031_M",
+      "hash_female": "MP_LR_Tat_031_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_032",
+      "label": "Reign Over",
+      "hash_male": "MP_LR_Tat_032_M",
+      "hash_female": "MP_LR_Tat_032_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S1_001",
+      "label": "King Fight",
+      "hash_male": "MP_LR_Tat_001_M",
+      "hash_female": "MP_LR_Tat_001_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_002",
+      "label": "Holy Mary",
+      "hash_male": "MP_LR_Tat_002_M",
+      "hash_female": "MP_LR_Tat_002_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_004",
+      "label": "Gun Mic",
+      "hash_male": "MP_LR_Tat_004_M",
+      "hash_female": "MP_LR_Tat_004_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_009",
+      "label": "Amazon",
+      "hash_male": "MP_LR_Tat_009_M",
+      "hash_female": "MP_LR_Tat_009_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_010",
+      "label": "Bad Angel",
+      "hash_male": "MP_LR_Tat_010_M",
+      "hash_female": "MP_LR_Tat_010_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_013",
+      "label": "Love Gamble",
+      "hash_male": "MP_LR_Tat_013_M",
+      "hash_female": "MP_LR_Tat_013_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_014",
+      "label": "Love is Blind",
+      "hash_male": "MP_LR_Tat_014_M",
+      "hash_female": "MP_LR_Tat_014_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_021",
+      "label": "Sad Angel",
+      "hash_male": "MP_LR_Tat_021_M",
+      "hash_female": "MP_LR_Tat_021_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_026",
+      "label": "Royal Takeover",
+      "hash_male": "MP_LR_Tat_026_M",
+      "hash_female": "MP_LR_Tat_026_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_L2_002",
+      "label": "The Howler",
+      "hash_male": "MP_LUXE_TAT_002_M",
+      "hash_female": "MP_LUXE_TAT_002_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_012",
+      "label": "Geometric Galaxy",
+      "hash_male": "MP_LUXE_TAT_012_M",
+      "hash_female": "MP_LUXE_TAT_012_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_022",
+      "label": "Cloaked Angel",
+      "hash_male": "MP_LUXE_TAT_022_M",
+      "hash_female": "MP_LUXE_TAT_022_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_025",
+      "label": "Reaper Sway",
+      "hash_male": "MP_LUXE_TAT_025_M",
+      "hash_female": "MP_LUXE_TAT_025_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_027",
+      "label": "Cobra Dawn",
+      "hash_male": "MP_LUXE_TAT_027_M",
+      "hash_female": "MP_LUXE_TAT_027_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_029",
+      "label": "Geometric Design",
+      "hash_male": "MP_LUXE_TAT_029_M",
+      "hash_female": "MP_LUXE_TAT_029_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_LX_003",
+      "label": "Abstract Skull",
+      "hash_male": "MP_LUXE_TAT_003_M",
+      "hash_female": "MP_LUXE_TAT_003_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_006",
+      "label": "Adorned Wolf",
+      "hash_male": "MP_LUXE_TAT_006_M",
+      "hash_female": "MP_LUXE_TAT_006_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_007",
+      "label": "Eye of the Griffin",
+      "hash_male": "MP_LUXE_TAT_007_M",
+      "hash_female": "MP_LUXE_TAT_007_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_008",
+      "label": "Flying Eye",
+      "hash_male": "MP_LUXE_TAT_008_M",
+      "hash_female": "MP_LUXE_TAT_008_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_014",
+      "label": "Ancient Queen",
+      "hash_male": "MP_LUXE_TAT_014_M",
+      "hash_female": "MP_LUXE_TAT_014_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_015",
+      "label": "Smoking Sisters",
+      "hash_male": "MP_LUXE_TAT_015_M",
+      "hash_female": "MP_LUXE_TAT_015_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_024",
+      "label": "Feather Mural",
+      "hash_male": "MP_LUXE_TAT_024_M",
+      "hash_female": "MP_LUXE_TAT_024_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_FX_004",
+      "label": "Hood Heart",
+      "hash_male": "MP_Security_Tat_004_M",
+      "hash_female": "MP_Security_Tat_004_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_008",
+      "label": "Los Santos Tag",
+      "hash_male": "MP_Security_Tat_008_M",
+      "hash_female": "MP_Security_Tat_008_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_013",
+      "label": "Blessed Boombox",
+      "hash_male": "MP_Security_Tat_013_M",
+      "hash_female": "MP_Security_Tat_013_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_014",
+      "label": "Chamberlain Hills",
+      "hash_male": "MP_Security_Tat_014_M",
+      "hash_female": "MP_Security_Tat_014_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_015",
+      "label": "Smoking Barrels",
+      "hash_male": "MP_Security_Tat_015_M",
+      "hash_female": "MP_Security_Tat_015_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_016",
+      "label": "All From The Same Tree",
+      "hash_male": "MP_Security_Tat_016_M",
+      "hash_female": "MP_Security_Tat_016_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_017",
+      "label": "King of the Jungle",
+      "hash_male": "MP_Security_Tat_017_M",
+      "hash_female": "MP_Security_Tat_017_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_018",
+      "label": "Night Owl",
+      "hash_male": "MP_Security_Tat_018_M",
+      "hash_female": "MP_Security_Tat_018_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_024",
+      "label": "Beatbox Silhouette",
+      "hash_male": "MP_Security_Tat_024_M",
+      "hash_female": "MP_Security_Tat_024_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_025",
+      "label": "Davis Flames",
+      "hash_male": "MP_Security_Tat_025_M",
+      "hash_female": "MP_Security_Tat_025_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_026",
+      "label": "Dollar Guns Crossed",
+      "hash_male": "MP_Security_Tat_026_M",
+      "hash_female": "MP_Security_Tat_026_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_SM_000",
+      "label": "Bless The Dead",
+      "hash_male": "MP_Smuggler_Tattoo_000_M",
+      "hash_female": "MP_Smuggler_Tattoo_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_002",
+      "label": "Dead Lies",
+      "hash_male": "MP_Smuggler_Tattoo_002_M",
+      "hash_female": "MP_Smuggler_Tattoo_002_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_003",
+      "label": "Give Nothing Back",
+      "hash_male": "MP_Smuggler_Tattoo_003_M",
+      "hash_female": "MP_Smuggler_Tattoo_003_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_006",
+      "label": "Never Surrender",
+      "hash_male": "MP_Smuggler_Tattoo_006_M",
+      "hash_female": "MP_Smuggler_Tattoo_006_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_007",
+      "label": "No Honor",
+      "hash_male": "MP_Smuggler_Tattoo_007_M",
+      "hash_female": "MP_Smuggler_Tattoo_007_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_009",
+      "label": "Tall Ship Conflict",
+      "hash_male": "MP_Smuggler_Tattoo_009_M",
+      "hash_female": "MP_Smuggler_Tattoo_009_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_010",
+      "label": "See You In Hell",
+      "hash_male": "MP_Smuggler_Tattoo_010_M",
+      "hash_female": "MP_Smuggler_Tattoo_010_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_013",
+      "label": "Torn Wings",
+      "hash_male": "MP_Smuggler_Tattoo_013_M",
+      "hash_female": "MP_Smuggler_Tattoo_013_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_015",
+      "label": "Jolly Roger",
+      "hash_male": "MP_Smuggler_Tattoo_015_M",
+      "hash_female": "MP_Smuggler_Tattoo_015_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_016",
+      "label": "Skull Compass",
+      "hash_male": "MP_Smuggler_Tattoo_016_M",
+      "hash_female": "MP_Smuggler_Tattoo_016_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_017",
+      "label": "Framed Tall Ship",
+      "hash_male": "MP_Smuggler_Tattoo_017_M",
+      "hash_female": "MP_Smuggler_Tattoo_017_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_018",
+      "label": "Finders Keepers",
+      "hash_male": "MP_Smuggler_Tattoo_018_M",
+      "hash_female": "MP_Smuggler_Tattoo_018_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_019",
+      "label": "Lost At Sea",
+      "hash_male": "MP_Smuggler_Tattoo_019_M",
+      "hash_female": "MP_Smuggler_Tattoo_019_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_021",
+      "label": "Dead Tales",
+      "hash_male": "MP_Smuggler_Tattoo_021_M",
+      "hash_female": "MP_Smuggler_Tattoo_021_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_022",
+      "label": "X Marks The Spot",
+      "hash_male": "MP_Smuggler_Tattoo_022_M",
+      "hash_female": "MP_Smuggler_Tattoo_022_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_024",
+      "label": "Pirate Captain",
+      "hash_male": "MP_Smuggler_Tattoo_024_M",
+      "hash_female": "MP_Smuggler_Tattoo_024_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_025",
+      "label": "Claimed By The Beast",
+      "hash_male": "MP_Smuggler_Tattoo_025_M",
+      "hash_female": "MP_Smuggler_Tattoo_025_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_ST_011",
+      "label": "Wheels of Death",
+      "hash_male": "MP_MP_Stunt_tat_011_M",
+      "hash_female": "MP_MP_Stunt_tat_011_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_012",
+      "label": "Punk Biker",
+      "hash_male": "MP_MP_Stunt_tat_012_M",
+      "hash_female": "MP_MP_Stunt_tat_012_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_014",
+      "label": "Bat Cat of Spades",
+      "hash_male": "MP_MP_Stunt_tat_014_M",
+      "hash_female": "MP_MP_Stunt_tat_014_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_018",
+      "label": "Vintage Bully",
+      "hash_male": "MP_MP_Stunt_tat_018_M",
+      "hash_female": "MP_MP_Stunt_tat_018_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_019",
+      "label": "Engine Heart",
+      "hash_male": "MP_MP_Stunt_tat_019_M",
+      "hash_female": "MP_MP_Stunt_tat_019_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_024",
+      "label": "Road Kill",
+      "hash_male": "MP_MP_Stunt_tat_024_M",
+      "hash_female": "MP_MP_Stunt_tat_024_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_026",
+      "label": "Winged Wheel",
+      "hash_male": "MP_MP_Stunt_tat_026_M",
+      "hash_female": "MP_MP_Stunt_tat_026_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_027",
+      "label": "Punk Road Hog",
+      "hash_male": "MP_MP_Stunt_tat_027_M",
+      "hash_female": "MP_MP_Stunt_tat_027_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_029",
+      "label": "Majestic Finish",
+      "hash_male": "MP_MP_Stunt_tat_029_M",
+      "hash_female": "MP_MP_Stunt_tat_029_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_030",
+      "label": "Man's Ruin",
+      "hash_male": "MP_MP_Stunt_tat_030_M",
+      "hash_female": "MP_MP_Stunt_tat_030_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_033",
+      "label": "Sugar Skull Trucker",
+      "hash_male": "MP_MP_Stunt_tat_033_M",
+      "hash_female": "MP_MP_Stunt_tat_033_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_034",
+      "label": "Feather Road Kill",
+      "hash_male": "MP_MP_Stunt_tat_034_M",
+      "hash_female": "MP_MP_Stunt_tat_034_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_037",
+      "label": "Big Grills",
+      "hash_male": "MP_MP_Stunt_tat_037_M",
+      "hash_female": "MP_MP_Stunt_tat_037_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_040",
+      "label": "Monkey Chopper",
+      "hash_male": "MP_MP_Stunt_tat_040_M",
+      "hash_female": "MP_MP_Stunt_tat_040_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_041",
+      "label": "Brapp",
+      "hash_male": "MP_MP_Stunt_tat_041_M",
+      "hash_female": "MP_MP_Stunt_tat_041_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_044",
+      "label": "Ram Skull",
+      "hash_male": "MP_MP_Stunt_tat_044_M",
+      "hash_female": "MP_MP_Stunt_tat_044_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_046",
+      "label": "Full Throttle",
+      "hash_male": "MP_MP_Stunt_tat_046_M",
+      "hash_female": "MP_MP_Stunt_tat_046_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_048",
+      "label": "Racing Doll",
+      "hash_male": "MP_MP_Stunt_tat_048_M",
+      "hash_female": "MP_MP_Stunt_tat_048_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_VW_000",
+      "label": "In the Pocket",
+      "hash_male": "MP_Vinewood_Tat_000_M",
+      "hash_female": "MP_Vinewood_Tat_000_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_001",
+      "label": "Jackpot",
+      "hash_male": "MP_Vinewood_Tat_001_M",
+      "hash_female": "MP_Vinewood_Tat_001_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_003",
+      "label": "Royal Flush",
+      "hash_male": "MP_Vinewood_Tat_003_M",
+      "hash_female": "MP_Vinewood_Tat_003_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_006",
+      "label": "Wheel of Suits",
+      "hash_male": "MP_Vinewood_Tat_006_M",
+      "hash_female": "MP_Vinewood_Tat_006_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_007",
+      "label": "777",
+      "hash_male": "MP_Vinewood_Tat_007_M",
+      "hash_female": "MP_Vinewood_Tat_007_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_008",
+      "label": "Snake Eyes",
+      "hash_male": "MP_Vinewood_Tat_008_M",
+      "hash_female": "MP_Vinewood_Tat_008_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_009",
+      "label": "Till Death Do Us Part",
+      "hash_male": "MP_Vinewood_Tat_009_M",
+      "hash_female": "MP_Vinewood_Tat_009_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_010",
+      "label": "Photo Finish",
+      "hash_male": "MP_Vinewood_Tat_010_M",
+      "hash_female": "MP_Vinewood_Tat_010_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_011",
+      "label": "Life's a Gamble",
+      "hash_male": "MP_Vinewood_Tat_011_M",
+      "hash_female": "MP_Vinewood_Tat_011_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_012",
+      "label": "Skull of Suits",
+      "hash_male": "MP_Vinewood_Tat_012_M",
+      "hash_female": "MP_Vinewood_Tat_012_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_015",
+      "label": "The Jolly Joker",
+      "hash_male": "MP_Vinewood_Tat_015_M",
+      "hash_female": "MP_Vinewood_Tat_015_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_016",
+      "label": "Rose & Aces",
+      "hash_male": "MP_Vinewood_Tat_016_M",
+      "hash_female": "MP_Vinewood_Tat_016_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_017",
+      "label": "Roll the Dice",
+      "hash_male": "MP_Vinewood_Tat_017_M",
+      "hash_female": "MP_Vinewood_Tat_017_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_021",
+      "label": "Show Your Hand",
+      "hash_male": "MP_Vinewood_Tat_021_M",
+      "hash_female": "MP_Vinewood_Tat_021_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_022",
+      "label": "Blood Money",
+      "hash_male": "MP_Vinewood_Tat_022_M",
+      "hash_female": "MP_Vinewood_Tat_022_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_023",
+      "label": "Lucky 7s",
+      "hash_male": "MP_Vinewood_Tat_023_M",
+      "hash_female": "MP_Vinewood_Tat_023_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_024",
+      "label": "Cash Mouth",
+      "hash_male": "MP_Vinewood_Tat_024_M",
+      "hash_female": "MP_Vinewood_Tat_024_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_029",
+      "label": "The Table",
+      "hash_male": "MP_Vinewood_Tat_029_M",
+      "hash_female": "MP_Vinewood_Tat_029_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_030",
+      "label": "The Royals",
+      "hash_male": "MP_Vinewood_Tat_030_M",
+      "hash_female": "MP_Vinewood_Tat_030_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_031",
+      "label": "Gambling Royalty",
+      "hash_male": "MP_Vinewood_Tat_031_M",
+      "hash_female": "MP_Vinewood_Tat_031_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_032",
+      "label": "Play Your Ace",
+      "hash_male": "MP_Vinewood_Tat_032_M",
+      "hash_female": "MP_Vinewood_Tat_032_F",
+      "zone": "ZONE_TORSO",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_FM_011",
+      "label": "Blackjack",
+      "hash_male": "FM_Tat_Award_M_003",
+      "hash_female": "FM_Tat_Award_F_003",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_012",
+      "label": "Hustler",
+      "hash_male": "FM_Tat_Award_M_004",
+      "hash_female": "FM_Tat_Award_F_004",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_013",
+      "label": "Angel",
+      "hash_male": "FM_Tat_Award_M_005",
+      "hash_female": "FM_Tat_Award_F_005",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_016",
+      "label": "Los Santos Customs",
+      "hash_male": "FM_Tat_Award_M_008",
+      "hash_female": "FM_Tat_Award_F_008",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_019",
+      "label": "Blank Scroll",
+      "hash_male": "FM_Tat_Award_M_011",
+      "hash_female": "FM_Tat_Award_F_011",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_020",
+      "label": "Embellished Scroll",
+      "hash_male": "FM_Tat_Award_M_012",
+      "hash_female": "FM_Tat_Award_F_012",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_021",
+      "label": "Seven Deadly Sins",
+      "hash_male": "FM_Tat_Award_M_013",
+      "hash_female": "FM_Tat_Award_F_013",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_022",
+      "label": "Trust No One",
+      "hash_male": "FM_Tat_Award_M_014",
+      "hash_female": "FM_Tat_Award_F_014",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_024",
+      "label": "Clown",
+      "hash_male": "FM_Tat_Award_M_016",
+      "hash_female": "FM_Tat_Award_F_016",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_025",
+      "label": "Clown and Gun",
+      "hash_male": "FM_Tat_Award_M_017",
+      "hash_female": "FM_Tat_Award_F_017",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_026",
+      "label": "Clown Dual Wield",
+      "hash_male": "FM_Tat_Award_M_018",
+      "hash_female": "FM_Tat_Award_F_018",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_027",
+      "label": "Clown Dual Wield Dollars",
+      "hash_male": "FM_Tat_Award_M_019",
+      "hash_female": "FM_Tat_Award_F_019",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_219",
+      "label": "Faith",
+      "hash_male": "FM_Tat_M_004",
+      "hash_female": "FM_Tat_F_004",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_213",
+      "label": "Skull on the Cross",
+      "hash_male": "FM_Tat_M_009",
+      "hash_female": "FM_Tat_F_009",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_218",
+      "label": "LS Flames",
+      "hash_male": "FM_Tat_M_010",
+      "hash_female": "FM_Tat_F_010",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_214",
+      "label": "LS Script",
+      "hash_male": "FM_Tat_M_011",
+      "hash_female": "FM_Tat_F_011",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_220",
+      "label": "Los Santos Bills",
+      "hash_male": "FM_Tat_M_012",
+      "hash_female": "FM_Tat_F_012",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_215",
+      "label": "Eagle and Serpent",
+      "hash_male": "FM_Tat_M_013",
+      "hash_female": "FM_Tat_F_013",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_216",
+      "label": "Evil Clown",
+      "hash_male": "FM_Tat_M_016",
+      "hash_female": "FM_Tat_F_016",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_217",
+      "label": "The Wages of Sin",
+      "hash_male": "FM_Tat_M_019",
+      "hash_female": "FM_Tat_F_019",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_221",
+      "label": "Dragon",
+      "hash_male": "FM_Tat_M_020",
+      "hash_female": "FM_Tat_F_020",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_225",
+      "label": "Flaming Cross",
+      "hash_male": "FM_Tat_M_024",
+      "hash_female": "FM_Tat_F_024",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_226",
+      "label": "LS Bold",
+      "hash_male": "FM_Tat_M_025",
+      "hash_female": "FM_Tat_F_025",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_230",
+      "label": "Trinity Knot",
+      "hash_male": "FM_Tat_M_029",
+      "hash_female": "FM_Tat_F_029",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_231",
+      "label": "Lucky Celtic Dogs",
+      "hash_male": "FM_Tat_M_030",
+      "hash_female": "FM_Tat_F_030",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_235",
+      "label": "Flaming Shamrock",
+      "hash_male": "FM_Tat_M_034",
+      "hash_female": "FM_Tat_F_034",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_237",
+      "label": "Way of the Gun",
+      "hash_male": "FM_Tat_M_036",
+      "hash_female": "FM_Tat_F_036",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_245",
+      "label": "Stone Cross",
+      "hash_male": "FM_Tat_M_044",
+      "hash_female": "FM_Tat_F_044",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_246",
+      "label": "Skulls and Rose",
+      "hash_male": "FM_Tat_M_045",
+      "hash_female": "FM_Tat_F_045",
+      "zone": "ZONE_TORSO",
+      "collection": "multiplayer_overlays"
+    }
+  ],
+  "ZONE_LEFT_ARM": [
+    {
+      "name": "TAT_AR_003",
+      "label": "Toxic Trails",
+      "hash_male": "MP_Airraces_Tattoo_003_M",
+      "hash_female": "MP_Airraces_Tattoo_003_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpairraces_overlays"
+    },
+    {
+      "name": "TAT_BB_024",
+      "label": "Tiki Tower",
+      "hash_male": "MP_Bea_M_LArm_000",
+      "hash_female": "",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_017",
+      "label": "Mermaid L.S.",
+      "hash_male": "MP_Bea_M_LArm_001",
+      "hash_female": "",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_002",
+      "label": "Tribal Flower",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_LArm_000",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_016",
+      "label": "Parrot",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_LArm_001",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BI_012",
+      "label": "Urban Stunter",
+      "hash_male": "MP_MP_Biker_Tat_012_M",
+      "hash_female": "MP_MP_Biker_Tat_012_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_016",
+      "label": "Macabre Tree",
+      "hash_male": "MP_MP_Biker_Tat_016_M",
+      "hash_female": "MP_MP_Biker_Tat_016_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_020",
+      "label": "Cranial Rose",
+      "hash_male": "MP_MP_Biker_Tat_020_M",
+      "hash_female": "MP_MP_Biker_Tat_020_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_024",
+      "label": "Live to Ride",
+      "hash_male": "MP_MP_Biker_Tat_024_M",
+      "hash_female": "MP_MP_Biker_Tat_024_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_025",
+      "label": "Good Luck",
+      "hash_male": "MP_MP_Biker_Tat_025_M",
+      "hash_female": "MP_MP_Biker_Tat_025_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_035",
+      "label": "Chain Fist",
+      "hash_male": "MP_MP_Biker_Tat_035_M",
+      "hash_female": "MP_MP_Biker_Tat_035_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_045",
+      "label": "Ride Hard Die Fast",
+      "hash_male": "MP_MP_Biker_Tat_045_M",
+      "hash_female": "MP_MP_Biker_Tat_045_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_053",
+      "label": "Muffler Helmet",
+      "hash_male": "MP_MP_Biker_Tat_053_M",
+      "hash_female": "MP_MP_Biker_Tat_053_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_055",
+      "label": "Poison Scorpion",
+      "hash_male": "MP_MP_Biker_Tat_055_M",
+      "hash_female": "MP_MP_Biker_Tat_055_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BUS_003",
+      "label": "$100 Bill",
+      "hash_male": "MP_Buis_M_LeftArm_000",
+      "hash_female": "",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_004",
+      "label": "All-Seeing Eye",
+      "hash_male": "MP_Buis_M_LeftArm_001",
+      "hash_female": "",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_005",
+      "label": "Greed is Good",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_LArm_000",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_H27_001",
+      "label": "Viking Warrior",
+      "hash_male": "MP_Christmas2017_Tattoo_001_M",
+      "hash_female": "MP_Christmas2017_Tattoo_001_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_004",
+      "label": "Tiger & Mask",
+      "hash_male": "MP_Christmas2017_Tattoo_004_M",
+      "hash_female": "MP_Christmas2017_Tattoo_004_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_007",
+      "label": "Spartan Combat",
+      "hash_male": "MP_Christmas2017_Tattoo_007_M",
+      "hash_female": "MP_Christmas2017_Tattoo_007_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_013",
+      "label": "Katana",
+      "hash_male": "MP_Christmas2017_Tattoo_013_M",
+      "hash_female": "MP_Christmas2017_Tattoo_013_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_025",
+      "label": "Winged Serpent",
+      "hash_male": "MP_Christmas2017_Tattoo_025_M",
+      "hash_female": "MP_Christmas2017_Tattoo_025_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_029",
+      "label": "Cerberus",
+      "hash_male": "MP_Christmas2017_Tattoo_029_M",
+      "hash_female": "MP_Christmas2017_Tattoo_029_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_X2_000",
+      "label": "Skull Rider",
+      "hash_male": "MP_Xmas2_M_Tat_000",
+      "hash_female": "MP_Xmas2_F_Tat_000",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_010",
+      "label": "Electric Snake",
+      "hash_male": "MP_Xmas2_M_Tat_010",
+      "hash_female": "MP_Xmas2_F_Tat_010",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_012",
+      "label": "8 Ball Skull",
+      "hash_male": "MP_Xmas2_M_Tat_012",
+      "hash_female": "MP_Xmas2_F_Tat_012",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_020",
+      "label": "Time's Up Outline",
+      "hash_male": "MP_Xmas2_M_Tat_020",
+      "hash_female": "MP_Xmas2_F_Tat_020",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_021",
+      "label": "Time's Up Color",
+      "hash_male": "MP_Xmas2_M_Tat_021",
+      "hash_female": "MP_Xmas2_F_Tat_021",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_GR_004",
+      "label": "Sidearm",
+      "hash_male": "MP_Gunrunning_Tattoo_004_M",
+      "hash_female": "MP_Gunrunning_Tattoo_004_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_008",
+      "label": "Bandolier",
+      "hash_male": "MP_Gunrunning_Tattoo_008_M",
+      "hash_female": "MP_Gunrunning_Tattoo_008_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_015",
+      "label": "Spiked Skull",
+      "hash_male": "MP_Gunrunning_Tattoo_015_M",
+      "hash_female": "MP_Gunrunning_Tattoo_015_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_016",
+      "label": "Blood Money",
+      "hash_male": "MP_Gunrunning_Tattoo_016_M",
+      "hash_female": "MP_Gunrunning_Tattoo_016_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_025",
+      "label": "Praying Skull",
+      "hash_male": "MP_Gunrunning_Tattoo_025_M",
+      "hash_female": "MP_Gunrunning_Tattoo_025_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_027",
+      "label": "Serpent Revolver",
+      "hash_male": "MP_Gunrunning_Tattoo_027_M",
+      "hash_female": "MP_Gunrunning_Tattoo_027_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_H3_040",
+      "label": "Tiger Heart",
+      "hash_male": "mpHeist3_Tat_040_M",
+      "hash_female": "mpHeist3_Tat_040_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_041",
+      "label": "Mighty Thog",
+      "hash_male": "mpHeist3_Tat_041_M",
+      "hash_female": "mpHeist3_Tat_041_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H4_009",
+      "label": "Scratch Panther",
+      "hash_male": "MP_Heist4_Tat_009_M",
+      "hash_female": "MP_Heist4_Tat_009_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_HP_003",
+      "label": "Diamond Sparkle",
+      "hash_male": "FM_Hip_M_Tat_003",
+      "hash_female": "FM_Hip_F_Tat_003",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_007",
+      "label": "Bricks",
+      "hash_male": "FM_Hip_M_Tat_007",
+      "hash_female": "FM_Hip_F_Tat_007",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_015",
+      "label": "Mustache",
+      "hash_male": "FM_Hip_M_Tat_015",
+      "hash_female": "FM_Hip_F_Tat_015",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_016",
+      "label": "Lightning Bolt",
+      "hash_male": "FM_Hip_M_Tat_016",
+      "hash_female": "FM_Hip_F_Tat_016",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_026",
+      "label": "Pizza",
+      "hash_male": "FM_Hip_M_Tat_026",
+      "hash_female": "FM_Hip_F_Tat_026",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_027",
+      "label": "Padlock",
+      "hash_male": "FM_Hip_M_Tat_027",
+      "hash_female": "FM_Hip_F_Tat_027",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_028",
+      "label": "Thorny Rose",
+      "hash_male": "FM_Hip_M_Tat_028",
+      "hash_female": "FM_Hip_F_Tat_028",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_034",
+      "label": "Stop",
+      "hash_male": "FM_Hip_M_Tat_034",
+      "hash_female": "FM_Hip_F_Tat_034",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_037",
+      "label": "Sunrise",
+      "hash_male": "FM_Hip_M_Tat_037",
+      "hash_female": "FM_Hip_F_Tat_037",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_039",
+      "label": "Sleeve",
+      "hash_male": "FM_Hip_M_Tat_039",
+      "hash_female": "FM_Hip_F_Tat_039",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_043",
+      "label": "Triangle White",
+      "hash_male": "FM_Hip_M_Tat_043",
+      "hash_female": "FM_Hip_F_Tat_043",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_048",
+      "label": "Peace",
+      "hash_male": "FM_Hip_M_Tat_048",
+      "hash_female": "FM_Hip_F_Tat_048",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_IE_004",
+      "label": "Piston Sleeve",
+      "hash_male": "MP_MP_ImportExport_Tat_004_M",
+      "hash_female": "MP_MP_ImportExport_Tat_004_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_008",
+      "label": "Scarlett",
+      "hash_male": "MP_MP_ImportExport_Tat_008_M",
+      "hash_female": "MP_MP_ImportExport_Tat_008_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_S2_006",
+      "label": "Love Hustle",
+      "hash_male": "MP_LR_Tat_006_M",
+      "hash_female": "MP_LR_Tat_006_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_018",
+      "label": "Skeleton Party",
+      "hash_male": "MP_LR_Tat_018_M",
+      "hash_female": "MP_LR_Tat_018_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_022",
+      "label": "My Crazy Life",
+      "hash_male": "MP_LR_Tat_022_M",
+      "hash_female": "MP_LR_Tat_022_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S1_005",
+      "label": "No Evil",
+      "hash_male": "MP_LR_Tat_005_M",
+      "hash_female": "MP_LR_Tat_005_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_027",
+      "label": "Los Santos Life",
+      "hash_male": "MP_LR_Tat_027_M",
+      "hash_female": "MP_LR_Tat_027_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_033",
+      "label": "City Sorrow",
+      "hash_male": "MP_LR_Tat_033_M",
+      "hash_female": "MP_LR_Tat_033_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_L2_005",
+      "label": "Fatal Dagger",
+      "hash_male": "MP_LUXE_TAT_005_M",
+      "hash_female": "MP_LUXE_TAT_005_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_016",
+      "label": "Egyptian Mural",
+      "hash_male": "MP_LUXE_TAT_016_M",
+      "hash_female": "MP_LUXE_TAT_016_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_018",
+      "label": "Divine Goddess",
+      "hash_male": "MP_LUXE_TAT_018_M",
+      "hash_female": "MP_LUXE_TAT_018_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_028",
+      "label": "Python Skull",
+      "hash_male": "MP_LUXE_TAT_028_M",
+      "hash_female": "MP_LUXE_TAT_028_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_031",
+      "label": "Geometric Design",
+      "hash_male": "MP_LUXE_TAT_031_M",
+      "hash_female": "MP_LUXE_TAT_031_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_LX_009",
+      "label": "Floral Symmetry",
+      "hash_male": "MP_LUXE_TAT_009_M",
+      "hash_female": "MP_LUXE_TAT_009_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_020",
+      "label": "Archangel & Mary",
+      "hash_male": "MP_LUXE_TAT_020_M",
+      "hash_female": "MP_LUXE_TAT_020_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_021",
+      "label": "Gabriel",
+      "hash_male": "MP_LUXE_TAT_021_M",
+      "hash_female": "MP_LUXE_TAT_021_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_FX_006",
+      "label": "Skeleton Shot",
+      "hash_male": "MP_Security_Tat_006_M",
+      "hash_female": "MP_Security_Tat_006_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_010",
+      "label": "Music Is The Remedy",
+      "hash_male": "MP_Security_Tat_010_M",
+      "hash_female": "MP_Security_Tat_010_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_011",
+      "label": "Serpent Mic",
+      "hash_male": "MP_Security_Tat_011_M",
+      "hash_female": "MP_Security_Tat_011_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_019",
+      "label": "Weed Knuckles",
+      "hash_male": "MP_Security_Tat_019_M",
+      "hash_female": "MP_Security_Tat_019_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_SM_004",
+      "label": "Honor",
+      "hash_male": "MP_Smuggler_Tattoo_004_M",
+      "hash_female": "MP_Smuggler_Tattoo_004_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_008",
+      "label": "Horrors Of The Deep",
+      "hash_male": "MP_Smuggler_Tattoo_008_M",
+      "hash_female": "MP_Smuggler_Tattoo_008_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_014",
+      "label": "Mermaid's Curse",
+      "hash_male": "MP_Smuggler_Tattoo_014_M",
+      "hash_female": "MP_Smuggler_Tattoo_014_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_ST_001",
+      "label": "8 Eyed Skull",
+      "hash_male": "MP_MP_Stunt_tat_001_M",
+      "hash_female": "MP_MP_Stunt_tat_001_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_002",
+      "label": "Big Cat",
+      "hash_male": "MP_MP_Stunt_tat_002_M",
+      "hash_female": "MP_MP_Stunt_tat_002_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_008",
+      "label": "Moonlight Ride",
+      "hash_male": "MP_MP_Stunt_tat_008_M",
+      "hash_female": "MP_MP_Stunt_tat_008_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_022",
+      "label": "Piston Head",
+      "hash_male": "MP_MP_Stunt_tat_022_M",
+      "hash_female": "MP_MP_Stunt_tat_022_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_023",
+      "label": "Tanked",
+      "hash_male": "MP_MP_Stunt_tat_023_M",
+      "hash_female": "MP_MP_Stunt_tat_023_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_035",
+      "label": "Stuntman's End",
+      "hash_male": "MP_MP_Stunt_tat_035_M",
+      "hash_female": "MP_MP_Stunt_tat_035_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_039",
+      "label": "Kaboom",
+      "hash_male": "MP_MP_Stunt_tat_039_M",
+      "hash_female": "MP_MP_Stunt_tat_039_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_043",
+      "label": "Engine Arm",
+      "hash_male": "MP_MP_Stunt_tat_043_M",
+      "hash_female": "MP_MP_Stunt_tat_043_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_VW_002",
+      "label": "Suits",
+      "hash_male": "MP_Vinewood_Tat_002_M",
+      "hash_female": "MP_Vinewood_Tat_002_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_005",
+      "label": "Get Lucky",
+      "hash_male": "MP_Vinewood_Tat_005_M",
+      "hash_female": "MP_Vinewood_Tat_005_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_014",
+      "label": "Vice",
+      "hash_male": "MP_Vinewood_Tat_014_M",
+      "hash_female": "MP_Vinewood_Tat_014_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_019",
+      "label": "Can't Win Them All",
+      "hash_male": "MP_Vinewood_Tat_019_M",
+      "hash_female": "MP_Vinewood_Tat_019_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_026",
+      "label": "Banknote Rose",
+      "hash_male": "MP_Vinewood_Tat_026_M",
+      "hash_female": "MP_Vinewood_Tat_026_F",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_FM_009",
+      "label": "Burning Heart",
+      "hash_male": "FM_Tat_Award_M_001",
+      "hash_female": "FM_Tat_Award_F_001",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_015",
+      "label": "Racing Blonde",
+      "hash_male": "FM_Tat_Award_M_007",
+      "hash_female": "FM_Tat_Award_F_007",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_023",
+      "label": "Racing Brunette",
+      "hash_male": "FM_Tat_Award_M_015",
+      "hash_female": "FM_Tat_Award_F_015",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_201",
+      "label": "Serpents",
+      "hash_male": "FM_Tat_M_005",
+      "hash_female": "FM_Tat_F_005",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_202",
+      "label": "Oriental Mural",
+      "hash_male": "FM_Tat_M_006",
+      "hash_female": "FM_Tat_F_006",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_203",
+      "label": "Zodiac Skull",
+      "hash_male": "FM_Tat_M_015",
+      "hash_female": "FM_Tat_F_015",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_232",
+      "label": "Lady M",
+      "hash_male": "FM_Tat_M_031",
+      "hash_female": "FM_Tat_F_031",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_242",
+      "label": "Dope Skull",
+      "hash_male": "FM_Tat_M_041",
+      "hash_female": "FM_Tat_F_041",
+      "zone": "ZONE_LEFT_ARM",
+      "collection": "multiplayer_overlays"
+    }
+  ],
+  "ZONE_HEAD": [
+    {
+      "name": "TAT_BB_021",
+      "label": "Pirate Skull",
+      "hash_male": "MP_Bea_M_Head_000",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_022",
+      "label": "Surf LS",
+      "hash_male": "MP_Bea_M_Head_001",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_031",
+      "label": "Shark",
+      "hash_male": "MP_Bea_M_Head_002",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_028",
+      "label": "Little Fish",
+      "hash_male": "MP_Bea_M_Neck_000",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_029",
+      "label": "Surfs Up",
+      "hash_male": "MP_Bea_M_Neck_001",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_008",
+      "label": "Tribal Butterfly",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_Neck_000",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BI_009",
+      "label": "Morbid Arachnid",
+      "hash_male": "MP_MP_Biker_Tat_009_M",
+      "hash_female": "MP_MP_Biker_Tat_009_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_038",
+      "label": "FTW",
+      "hash_male": "MP_MP_Biker_Tat_038_M",
+      "hash_female": "MP_MP_Biker_Tat_038_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_051",
+      "label": "Western Stylized",
+      "hash_male": "MP_MP_Biker_Tat_051_M",
+      "hash_female": "MP_MP_Biker_Tat_051_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BUS_005",
+      "label": "Cash is King",
+      "hash_male": "MP_Buis_M_Neck_000",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_006",
+      "label": "Bold Dollar Sign",
+      "hash_male": "MP_Buis_M_Neck_001",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_007",
+      "label": "Script Dollar Sign",
+      "hash_male": "MP_Buis_M_Neck_002",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_008",
+      "label": "$100",
+      "hash_male": "MP_Buis_M_Neck_003",
+      "hash_female": "",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_007",
+      "label": "Val-de-Grace Logo",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Neck_000",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_008",
+      "label": "Money Rose",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_Neck_001",
+      "zone": "ZONE_HEAD",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_X2_007",
+      "label": "Los Muertos",
+      "hash_male": "MP_Xmas2_M_Tat_007",
+      "hash_female": "MP_Xmas2_F_Tat_007",
+      "zone": "ZONE_HEAD",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_024",
+      "label": "Snake Head Outline",
+      "hash_male": "MP_Xmas2_M_Tat_024",
+      "hash_female": "MP_Xmas2_F_Tat_024",
+      "zone": "ZONE_HEAD",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_025",
+      "label": "Snake Head Color",
+      "hash_male": "MP_Xmas2_M_Tat_025",
+      "hash_female": "MP_Xmas2_F_Tat_025",
+      "zone": "ZONE_HEAD",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_029",
+      "label": "Beautiful Death",
+      "hash_male": "MP_Xmas2_M_Tat_029",
+      "hash_female": "MP_Xmas2_F_Tat_029",
+      "zone": "ZONE_HEAD",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_GR_003",
+      "label": "Lock & Load",
+      "hash_male": "MP_Gunrunning_Tattoo_003_M",
+      "hash_female": "MP_Gunrunning_Tattoo_003_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_H3_000",
+      "label": "Five Stars",
+      "hash_male": "mpHeist3_Tat_000_M",
+      "hash_female": "mpHeist3_Tat_000_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_001",
+      "label": "Ace of Spades",
+      "hash_male": "mpHeist3_Tat_001_M",
+      "hash_female": "mpHeist3_Tat_001_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_002",
+      "label": "Animal",
+      "hash_male": "mpHeist3_Tat_002_M",
+      "hash_female": "mpHeist3_Tat_002_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_003",
+      "label": "Assault Rifle",
+      "hash_male": "mpHeist3_Tat_003_M",
+      "hash_female": "mpHeist3_Tat_003_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_004",
+      "label": "Bandage",
+      "hash_male": "mpHeist3_Tat_004_M",
+      "hash_female": "mpHeist3_Tat_004_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_005",
+      "label": "Spades",
+      "hash_male": "mpHeist3_Tat_005_M",
+      "hash_female": "mpHeist3_Tat_005_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_006",
+      "label": "Crowned",
+      "hash_male": "mpHeist3_Tat_006_M",
+      "hash_female": "mpHeist3_Tat_006_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_007",
+      "label": "Two Horns",
+      "hash_male": "mpHeist3_Tat_007_M",
+      "hash_female": "mpHeist3_Tat_007_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_008",
+      "label": "Ice Cream",
+      "hash_male": "mpHeist3_Tat_008_M",
+      "hash_female": "mpHeist3_Tat_008_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_009",
+      "label": "Knifed",
+      "hash_male": "mpHeist3_Tat_009_M",
+      "hash_female": "mpHeist3_Tat_009_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_010",
+      "label": "Green Leaf",
+      "hash_male": "mpHeist3_Tat_010_M",
+      "hash_female": "mpHeist3_Tat_010_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_011",
+      "label": "Lipstick Kiss",
+      "hash_male": "mpHeist3_Tat_011_M",
+      "hash_female": "mpHeist3_Tat_011_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_012",
+      "label": "Razor Pop",
+      "hash_male": "mpHeist3_Tat_012_M",
+      "hash_female": "mpHeist3_Tat_012_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_013",
+      "label": "LS Star",
+      "hash_male": "mpHeist3_Tat_013_M",
+      "hash_female": "mpHeist3_Tat_013_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_014",
+      "label": "LS Wings",
+      "hash_male": "mpHeist3_Tat_014_M",
+      "hash_female": "mpHeist3_Tat_014_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_015",
+      "label": "On/Off",
+      "hash_male": "mpHeist3_Tat_015_M",
+      "hash_female": "mpHeist3_Tat_015_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_016",
+      "label": "Sleepy",
+      "hash_male": "mpHeist3_Tat_016_M",
+      "hash_female": "mpHeist3_Tat_016_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_017",
+      "label": "Space Monkey",
+      "hash_male": "mpHeist3_Tat_017_M",
+      "hash_female": "mpHeist3_Tat_017_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_018",
+      "label": "Stitches",
+      "hash_male": "mpHeist3_Tat_018_M",
+      "hash_female": "mpHeist3_Tat_018_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_019",
+      "label": "Teddy Bear",
+      "hash_male": "mpHeist3_Tat_019_M",
+      "hash_female": "mpHeist3_Tat_019_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_020",
+      "label": "UFO",
+      "hash_male": "mpHeist3_Tat_020_M",
+      "hash_female": "mpHeist3_Tat_020_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_021",
+      "label": "Wanted",
+      "hash_male": "mpHeist3_Tat_021_M",
+      "hash_female": "mpHeist3_Tat_021_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_022",
+      "label": "Thog's Sword",
+      "hash_male": "mpHeist3_Tat_022_M",
+      "hash_female": "mpHeist3_Tat_022_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_042",
+      "label": "Hearts",
+      "hash_male": "mpHeist3_Tat_042_M",
+      "hash_female": "mpHeist3_Tat_042_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_043",
+      "label": "Diamonds",
+      "hash_male": "mpHeist3_Tat_043_M",
+      "hash_female": "mpHeist3_Tat_043_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H3_044",
+      "label": "Clubs",
+      "hash_male": "mpHeist3_Tat_044_M",
+      "hash_female": "mpHeist3_Tat_044_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_HP_005",
+      "label": "Beautiful Eye",
+      "hash_male": "FM_Hip_M_Tat_005",
+      "hash_female": "FM_Hip_F_Tat_005",
+      "zone": "ZONE_HEAD",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_021",
+      "label": "Geo Fox",
+      "hash_male": "FM_Hip_M_Tat_021",
+      "hash_female": "FM_Hip_F_Tat_021",
+      "zone": "ZONE_HEAD",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_FX_001",
+      "label": "Bright Diamond",
+      "hash_male": "MP_Security_Tat_001_M",
+      "hash_female": "MP_Security_Tat_001_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_002",
+      "label": "Hustle",
+      "hash_male": "MP_Security_Tat_002_M",
+      "hash_female": "MP_Security_Tat_002_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_027",
+      "label": "Black Widow",
+      "hash_male": "MP_Security_Tat_027_M",
+      "hash_female": "MP_Security_Tat_027_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_SM_011",
+      "label": "Sinner",
+      "hash_male": "MP_Smuggler_Tattoo_011_M",
+      "hash_female": "MP_Smuggler_Tattoo_011_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_012",
+      "label": "Thief",
+      "hash_male": "MP_Smuggler_Tattoo_012_M",
+      "hash_female": "MP_Smuggler_Tattoo_012_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_ST_000",
+      "label": "Stunt Skull",
+      "hash_male": "MP_MP_Stunt_Tat_000_M",
+      "hash_female": "MP_MP_Stunt_Tat_000_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_004",
+      "label": "Scorpion",
+      "hash_male": "MP_MP_Stunt_tat_004_M",
+      "hash_female": "MP_MP_Stunt_tat_004_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_006",
+      "label": "Toxic Spider",
+      "hash_male": "MP_MP_Stunt_tat_006_M",
+      "hash_female": "MP_MP_Stunt_tat_006_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_017",
+      "label": "Bat Wheel",
+      "hash_male": "MP_MP_Stunt_tat_017_M",
+      "hash_female": "MP_MP_Stunt_tat_017_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_042",
+      "label": "Flaming Quad",
+      "hash_male": "MP_MP_Stunt_tat_042_M",
+      "hash_female": "MP_MP_Stunt_tat_042_F",
+      "zone": "ZONE_HEAD",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_FM_008",
+      "label": "Skull",
+      "hash_male": "FM_Tat_Award_M_000",
+      "hash_female": "FM_Tat_Award_F_000",
+      "zone": "ZONE_HEAD",
+      "collection": "multiplayer_overlays"
+    }
+  ],
+  "ZONE_LEFT_LEG": [
+    {
+      "name": "TAT_BB_027",
+      "label": "Tribal Star",
+      "hash_male": "MP_Bea_M_Lleg_000",
+      "hash_female": "",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BI_002",
+      "label": "Rose Tribute",
+      "hash_male": "MP_MP_Biker_Tat_002_M",
+      "hash_female": "MP_MP_Biker_Tat_002_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_015",
+      "label": "Ride or Die",
+      "hash_male": "MP_MP_Biker_Tat_015_M",
+      "hash_female": "MP_MP_Biker_Tat_015_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_027",
+      "label": "Bad Luck",
+      "hash_male": "MP_MP_Biker_Tat_027_M",
+      "hash_female": "MP_MP_Biker_Tat_027_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_036",
+      "label": "Engulfed Skull",
+      "hash_male": "MP_MP_Biker_Tat_036_M",
+      "hash_female": "MP_MP_Biker_Tat_036_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_037",
+      "label": "Scorched Soul",
+      "hash_male": "MP_MP_Biker_Tat_037_M",
+      "hash_female": "MP_MP_Biker_Tat_037_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_044",
+      "label": "Ride Free",
+      "hash_male": "MP_MP_Biker_Tat_044_M",
+      "hash_female": "MP_MP_Biker_Tat_044_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_056",
+      "label": "Bone Cruiser",
+      "hash_male": "MP_MP_Biker_Tat_056_M",
+      "hash_female": "MP_MP_Biker_Tat_056_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_057",
+      "label": "Laughing Skull",
+      "hash_male": "MP_MP_Biker_Tat_057_M",
+      "hash_female": "MP_MP_Biker_Tat_057_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_006",
+      "label": "Single",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_LLeg_000",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_X2_001",
+      "label": "Spider Outline",
+      "hash_male": "MP_Xmas2_M_Tat_001",
+      "hash_female": "MP_Xmas2_F_Tat_001",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_002",
+      "label": "Spider Color",
+      "hash_male": "MP_Xmas2_M_Tat_002",
+      "hash_female": "MP_Xmas2_F_Tat_002",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_GR_005",
+      "label": "Patriot Skull",
+      "hash_male": "MP_Gunrunning_Tattoo_005_M",
+      "hash_female": "MP_Gunrunning_Tattoo_005_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_007",
+      "label": "Stylized Tiger",
+      "hash_male": "MP_Gunrunning_Tattoo_007_M",
+      "hash_female": "MP_Gunrunning_Tattoo_007_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_011",
+      "label": "Death Skull",
+      "hash_male": "MP_Gunrunning_Tattoo_011_M",
+      "hash_female": "MP_Gunrunning_Tattoo_011_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_023",
+      "label": "Rose Revolver",
+      "hash_male": "MP_Gunrunning_Tattoo_023_M",
+      "hash_female": "MP_Gunrunning_Tattoo_023_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_H3_032",
+      "label": "Love Fist",
+      "hash_male": "mpHeist3_Tat_032_M",
+      "hash_female": "mpHeist3_Tat_032_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H4_010",
+      "label": "Tropical Serpent",
+      "hash_male": "MP_Heist4_Tat_010_M",
+      "hash_female": "MP_Heist4_Tat_010_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_024",
+      "label": "Pineapple Skull",
+      "hash_male": "MP_Heist4_Tat_024_M",
+      "hash_female": "MP_Heist4_Tat_024_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_025",
+      "label": "Glow Princess",
+      "hash_male": "MP_Heist4_Tat_025_M",
+      "hash_female": "MP_Heist4_Tat_025_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_028",
+      "label": "Skull Waters",
+      "hash_male": "MP_Heist4_Tat_028_M",
+      "hash_female": "MP_Heist4_Tat_028_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_029",
+      "label": "Soundwaves",
+      "hash_male": "MP_Heist4_Tat_029_M",
+      "hash_female": "MP_Heist4_Tat_029_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_HP_009",
+      "label": "Squares",
+      "hash_male": "FM_Hip_M_Tat_009",
+      "hash_female": "FM_Hip_F_Tat_009",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_019",
+      "label": "Charm",
+      "hash_male": "FM_Hip_M_Tat_019",
+      "hash_female": "FM_Hip_F_Tat_019",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_040",
+      "label": "Black Anchor",
+      "hash_male": "FM_Hip_M_Tat_040",
+      "hash_female": "FM_Hip_F_Tat_040",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_S2_029",
+      "label": "Death Us Do Part",
+      "hash_male": "MP_LR_Tat_029_M",
+      "hash_female": "MP_LR_Tat_029_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S1_007",
+      "label": "LS Serpent",
+      "hash_male": "MP_LR_Tat_007_M",
+      "hash_female": "MP_LR_Tat_007_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_020",
+      "label": "Presidents",
+      "hash_male": "MP_LR_Tat_020_M",
+      "hash_female": "MP_LR_Tat_020_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_L2_011",
+      "label": "Cross of Roses",
+      "hash_male": "MP_LUXE_TAT_011_M",
+      "hash_female": "MP_LUXE_TAT_011_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_LX_000",
+      "label": "Serpent of Death",
+      "hash_male": "MP_LUXE_TAT_000_M",
+      "hash_female": "MP_LUXE_TAT_000_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_FX_022",
+      "label": "LS Smoking Cartridges",
+      "hash_male": "MP_Security_Tat_022_M",
+      "hash_female": "MP_Security_Tat_022_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_023",
+      "label": "Trust",
+      "hash_male": "MP_Security_Tat_023_M",
+      "hash_female": "MP_Security_Tat_023_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_ST_007",
+      "label": "Dagger Devil",
+      "hash_male": "MP_MP_Stunt_tat_007_M",
+      "hash_female": "MP_MP_Stunt_tat_007_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_013",
+      "label": "Dirt Track Hero",
+      "hash_male": "MP_MP_Stunt_tat_013_M",
+      "hash_female": "MP_MP_Stunt_tat_013_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_021",
+      "label": "Golden Cobra",
+      "hash_male": "MP_MP_Stunt_tat_021_M",
+      "hash_female": "MP_MP_Stunt_tat_021_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_028",
+      "label": "Quad Goblin",
+      "hash_male": "MP_MP_Stunt_tat_028_M",
+      "hash_female": "MP_MP_Stunt_tat_028_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_031",
+      "label": "Stunt Jesus",
+      "hash_male": "MP_MP_Stunt_tat_031_M",
+      "hash_female": "MP_MP_Stunt_tat_031_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_VW_013",
+      "label": "One-armed Bandit",
+      "hash_male": "MP_Vinewood_Tat_013_M",
+      "hash_female": "MP_Vinewood_Tat_013_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_027",
+      "label": "8-Ball Rose",
+      "hash_male": "MP_Vinewood_Tat_027_M",
+      "hash_female": "MP_Vinewood_Tat_027_F",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_FM_017",
+      "label": "Dragon and Dagger",
+      "hash_male": "FM_Tat_Award_M_009",
+      "hash_female": "FM_Tat_Award_F_009",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_209",
+      "label": "Melting Skull",
+      "hash_male": "FM_Tat_M_002",
+      "hash_female": "FM_Tat_F_002",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_211",
+      "label": "Dragon Mural",
+      "hash_male": "FM_Tat_M_008",
+      "hash_female": "FM_Tat_F_008",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_222",
+      "label": "Serpent Skull",
+      "hash_male": "FM_Tat_M_021",
+      "hash_female": "FM_Tat_F_021",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_224",
+      "label": "Hottie",
+      "hash_male": "FM_Tat_M_023",
+      "hash_female": "FM_Tat_F_023",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_227",
+      "label": "Smoking Dagger",
+      "hash_male": "FM_Tat_M_026",
+      "hash_female": "FM_Tat_F_026",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_233",
+      "label": "Faith",
+      "hash_male": "FM_Tat_M_032",
+      "hash_female": "FM_Tat_F_032",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_234",
+      "label": "Chinese Dragon",
+      "hash_male": "FM_Tat_M_033",
+      "hash_female": "FM_Tat_F_033",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_236",
+      "label": "Dragon",
+      "hash_male": "FM_Tat_M_035",
+      "hash_female": "FM_Tat_F_035",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_238",
+      "label": "Grim Reaper",
+      "hash_male": "FM_Tat_M_037",
+      "hash_female": "FM_Tat_F_037",
+      "zone": "ZONE_LEFT_LEG",
+      "collection": "multiplayer_overlays"
+    }
+  ],
+  "ZONE_RIGHT_LEG": [
+    {
+      "name": "TAT_BB_025",
+      "label": "Tribal Tiki Tower",
+      "hash_male": "MP_Bea_M_Rleg_000",
+      "hash_female": "",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_007",
+      "label": "School of Fish",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_RLeg_000",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BI_004",
+      "label": "Dragon's Fury",
+      "hash_male": "MP_MP_Biker_Tat_004_M",
+      "hash_female": "MP_MP_Biker_Tat_004_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_022",
+      "label": "Western Insignia",
+      "hash_male": "MP_MP_Biker_Tat_022_M",
+      "hash_female": "MP_MP_Biker_Tat_022_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_028",
+      "label": "Dusk Rider",
+      "hash_male": "MP_MP_Biker_Tat_028_M",
+      "hash_female": "MP_MP_Biker_Tat_028_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_040",
+      "label": "American Made",
+      "hash_male": "MP_MP_Biker_Tat_040_M",
+      "hash_female": "MP_MP_Biker_Tat_040_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_048",
+      "label": "STFU",
+      "hash_male": "MP_MP_Biker_Tat_048_M",
+      "hash_female": "MP_MP_Biker_Tat_048_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_010",
+      "label": "Diamond Crown",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_RLeg_000",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_X2_014",
+      "label": "Floral Dagger",
+      "hash_male": "MP_Xmas2_M_Tat_014",
+      "hash_female": "MP_Xmas2_F_Tat_014",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_GR_006",
+      "label": "Combat Skull",
+      "hash_male": "MP_Gunrunning_Tattoo_006_M",
+      "hash_female": "MP_Gunrunning_Tattoo_006_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_026",
+      "label": "Restless Skull",
+      "hash_male": "MP_Gunrunning_Tattoo_026_M",
+      "hash_female": "MP_Gunrunning_Tattoo_026_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_030",
+      "label": "Pistol Ace",
+      "hash_male": "MP_Gunrunning_Tattoo_030_M",
+      "hash_female": "MP_Gunrunning_Tattoo_030_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_H3_031",
+      "label": "Kifflom",
+      "hash_male": "mpHeist3_Tat_031_M",
+      "hash_female": "mpHeist3_Tat_031_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H4_027",
+      "label": "Skullphones",
+      "hash_male": "MP_Heist4_Tat_027_M",
+      "hash_female": "MP_Heist4_Tat_027_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_HP_038",
+      "label": "Grub",
+      "hash_male": "FM_Hip_M_Tat_038",
+      "hash_female": "FM_Hip_F_Tat_038",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_042",
+      "label": "Sparkplug",
+      "hash_male": "FM_Hip_M_Tat_042",
+      "hash_female": "FM_Hip_F_Tat_042",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_S2_030",
+      "label": "San Andreas Prayer",
+      "hash_male": "MP_LR_Tat_030_M",
+      "hash_female": "MP_LR_Tat_030_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S1_017",
+      "label": "Ink Me",
+      "hash_male": "MP_LR_Tat_017_M",
+      "hash_female": "MP_LR_Tat_017_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_S1_023",
+      "label": "Dance of Hearts",
+      "hash_male": "MP_LR_Tat_023_M",
+      "hash_female": "MP_LR_Tat_023_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_L2_023",
+      "label": "Starmetric",
+      "hash_male": "MP_LUXE_TAT_023_M",
+      "hash_female": "MP_LUXE_TAT_023_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_LX_001",
+      "label": "Elaborate Los Muertos",
+      "hash_male": "MP_LUXE_TAT_001_M",
+      "hash_female": "MP_LUXE_TAT_001_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_FX_003",
+      "label": "Bandana Knife",
+      "hash_male": "MP_Security_Tat_003_M",
+      "hash_female": "MP_Security_Tat_003_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_021",
+      "label": "Graffiti Skull",
+      "hash_male": "MP_Security_Tat_021_M",
+      "hash_female": "MP_Security_Tat_021_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_SM_020",
+      "label": "Homeward Bound",
+      "hash_male": "MP_Smuggler_Tattoo_020_M",
+      "hash_female": "MP_Smuggler_Tattoo_020_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_ST_005",
+      "label": "Demon Spark Plug",
+      "hash_male": "MP_MP_Stunt_tat_005_M",
+      "hash_female": "MP_MP_Stunt_tat_005_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_015",
+      "label": "Praying Gloves",
+      "hash_male": "MP_MP_Stunt_tat_015_M",
+      "hash_female": "MP_MP_Stunt_tat_015_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_020",
+      "label": "Piston Angel",
+      "hash_male": "MP_MP_Stunt_tat_020_M",
+      "hash_female": "MP_MP_Stunt_tat_020_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_025",
+      "label": "Speed Freak",
+      "hash_male": "MP_MP_Stunt_tat_025_M",
+      "hash_female": "MP_MP_Stunt_tat_025_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_032",
+      "label": "Wheelie Mouse",
+      "hash_male": "MP_MP_Stunt_tat_032_M",
+      "hash_female": "MP_MP_Stunt_tat_032_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_045",
+      "label": "Severed Hand",
+      "hash_male": "MP_MP_Stunt_tat_045_M",
+      "hash_female": "MP_MP_Stunt_tat_045_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_047",
+      "label": "Brake Knife",
+      "hash_male": "MP_MP_Stunt_tat_047_M",
+      "hash_female": "MP_MP_Stunt_tat_047_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_VW_020",
+      "label": "Cash is King",
+      "hash_male": "MP_Vinewood_Tat_020_M",
+      "hash_female": "MP_Vinewood_Tat_020_F",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_FM_014",
+      "label": "Skull and Sword",
+      "hash_male": "FM_Tat_Award_M_006",
+      "hash_female": "FM_Tat_Award_F_006",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_210",
+      "label": "The Warrior",
+      "hash_male": "FM_Tat_M_007",
+      "hash_female": "FM_Tat_F_007",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_212",
+      "label": "Tribal",
+      "hash_male": "FM_Tat_M_017",
+      "hash_female": "FM_Tat_F_017",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_223",
+      "label": "Fiery Dragon",
+      "hash_male": "FM_Tat_M_022",
+      "hash_female": "FM_Tat_F_022",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_240",
+      "label": "Broken Skull",
+      "hash_male": "FM_Tat_M_039",
+      "hash_female": "FM_Tat_F_039",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_241",
+      "label": "Flaming Skull",
+      "hash_male": "FM_Tat_M_040",
+      "hash_female": "FM_Tat_F_040",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_243",
+      "label": "Flaming Scorpion",
+      "hash_male": "FM_Tat_M_042",
+      "hash_female": "FM_Tat_F_042",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_244",
+      "label": "Indian Ram",
+      "hash_male": "FM_Tat_M_043",
+      "hash_female": "FM_Tat_F_043",
+      "zone": "ZONE_RIGHT_LEG",
+      "collection": "multiplayer_overlays"
+    }
+  ],
+  "ZONE_RIGHT_ARM": [
+    {
+      "name": "TAT_BB_026",
+      "label": "Tribal Sun",
+      "hash_male": "MP_Bea_M_RArm_000",
+      "hash_female": "",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_030",
+      "label": "Vespucci Beauty",
+      "hash_male": "MP_Bea_M_RArm_001",
+      "hash_female": "",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BB_015",
+      "label": "Tribal Fish",
+      "hash_male": "",
+      "hash_female": "MP_Bea_F_RArm_001",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbeach_overlays"
+    },
+    {
+      "name": "TAT_BI_007",
+      "label": "Swooping Eagle",
+      "hash_male": "MP_MP_Biker_Tat_007_M",
+      "hash_female": "MP_MP_Biker_Tat_007_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_014",
+      "label": "Lady Mortality",
+      "hash_male": "MP_MP_Biker_Tat_014_M",
+      "hash_female": "MP_MP_Biker_Tat_014_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_033",
+      "label": "Eagle Emblem",
+      "hash_male": "MP_MP_Biker_Tat_033_M",
+      "hash_female": "MP_MP_Biker_Tat_033_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_042",
+      "label": "Grim Rider",
+      "hash_male": "MP_MP_Biker_Tat_042_M",
+      "hash_female": "MP_MP_Biker_Tat_042_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_046",
+      "label": "Skull Chain",
+      "hash_male": "MP_MP_Biker_Tat_046_M",
+      "hash_female": "MP_MP_Biker_Tat_046_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_047",
+      "label": "Snake Bike",
+      "hash_male": "MP_MP_Biker_Tat_047_M",
+      "hash_female": "MP_MP_Biker_Tat_047_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_049",
+      "label": "These Colors Don't Run",
+      "hash_male": "MP_MP_Biker_Tat_049_M",
+      "hash_female": "MP_MP_Biker_Tat_049_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BI_054",
+      "label": "Mum",
+      "hash_male": "MP_MP_Biker_Tat_054_M",
+      "hash_female": "MP_MP_Biker_Tat_054_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbiker_overlays"
+    },
+    {
+      "name": "TAT_BUS_009",
+      "label": "Dollar Skull",
+      "hash_male": "MP_Buis_M_RightArm_000",
+      "hash_female": "",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_010",
+      "label": "Green",
+      "hash_male": "MP_Buis_M_RightArm_001",
+      "hash_female": "",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_BUS_F_009",
+      "label": "Dollar Sign",
+      "hash_male": "",
+      "hash_female": "MP_Buis_F_RArm_000",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpbusiness_overlays"
+    },
+    {
+      "name": "TAT_H27_006",
+      "label": "Medusa",
+      "hash_male": "MP_Christmas2017_Tattoo_006_M",
+      "hash_female": "MP_Christmas2017_Tattoo_006_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_012",
+      "label": "Tiger Headdress",
+      "hash_male": "MP_Christmas2017_Tattoo_012_M",
+      "hash_female": "MP_Christmas2017_Tattoo_012_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_014",
+      "label": "Celtic Band",
+      "hash_male": "MP_Christmas2017_Tattoo_014_M",
+      "hash_female": "MP_Christmas2017_Tattoo_014_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_017",
+      "label": "Feather Sleeve",
+      "hash_male": "MP_Christmas2017_Tattoo_017_M",
+      "hash_female": "MP_Christmas2017_Tattoo_017_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_018",
+      "label": "Muscle Tear",
+      "hash_male": "MP_Christmas2017_Tattoo_018_M",
+      "hash_female": "MP_Christmas2017_Tattoo_018_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_023",
+      "label": "Samurai Tallship",
+      "hash_male": "MP_Christmas2017_Tattoo_023_M",
+      "hash_female": "MP_Christmas2017_Tattoo_023_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_H27_028",
+      "label": "Spartan Mural",
+      "hash_male": "MP_Christmas2017_Tattoo_028_M",
+      "hash_female": "MP_Christmas2017_Tattoo_028_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2017_overlays"
+    },
+    {
+      "name": "TAT_X2_003",
+      "label": "Snake Outline",
+      "hash_male": "MP_Xmas2_M_Tat_003",
+      "hash_female": "MP_Xmas2_F_Tat_003",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_004",
+      "label": "Snake Shaded",
+      "hash_male": "MP_Xmas2_M_Tat_004",
+      "hash_female": "MP_Xmas2_F_Tat_004",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_008",
+      "label": "Death Before Dishonor",
+      "hash_male": "MP_Xmas2_M_Tat_008",
+      "hash_female": "MP_Xmas2_F_Tat_008",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_022",
+      "label": "You're Next Outline",
+      "hash_male": "MP_Xmas2_M_Tat_022",
+      "hash_female": "MP_Xmas2_F_Tat_022",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_023",
+      "label": "You're Next Color",
+      "hash_male": "MP_Xmas2_M_Tat_023",
+      "hash_female": "MP_Xmas2_F_Tat_023",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_026",
+      "label": "Fuck Luck Outline",
+      "hash_male": "MP_Xmas2_M_Tat_026",
+      "hash_female": "MP_Xmas2_F_Tat_026",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_X2_027",
+      "label": "Fuck Luck Color",
+      "hash_male": "MP_Xmas2_M_Tat_027",
+      "hash_female": "MP_Xmas2_F_Tat_027",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpchristmas2_overlays"
+    },
+    {
+      "name": "TAT_GR_002",
+      "label": "Grenade",
+      "hash_male": "MP_Gunrunning_Tattoo_002_M",
+      "hash_female": "MP_Gunrunning_Tattoo_002_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_021",
+      "label": "Have a Nice Day",
+      "hash_male": "MP_Gunrunning_Tattoo_021_M",
+      "hash_female": "MP_Gunrunning_Tattoo_021_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_GR_024",
+      "label": "Combat Reaper",
+      "hash_male": "MP_Gunrunning_Tattoo_024_M",
+      "hash_female": "MP_Gunrunning_Tattoo_024_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpgunrunning_overlays"
+    },
+    {
+      "name": "TAT_H3_034",
+      "label": "LS Monogram",
+      "hash_male": "mpHeist3_Tat_034_M",
+      "hash_female": "mpHeist3_Tat_034_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist3_overlays"
+    },
+    {
+      "name": "TAT_H4_000",
+      "label": "Headphone Splat",
+      "hash_male": "MP_Heist4_Tat_000_M",
+      "hash_female": "MP_Heist4_Tat_000_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_001",
+      "label": "Tropical Dude",
+      "hash_male": "MP_Heist4_Tat_001_M",
+      "hash_female": "MP_Heist4_Tat_001_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_002",
+      "label": "Jellyfish Shades",
+      "hash_male": "MP_Heist4_Tat_002_M",
+      "hash_female": "MP_Heist4_Tat_002_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_003",
+      "label": "Lighthouse",
+      "hash_male": "MP_Heist4_Tat_003_M",
+      "hash_female": "MP_Heist4_Tat_003_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_005",
+      "label": "LSUR",
+      "hash_male": "MP_Heist4_Tat_005_M",
+      "hash_female": "MP_Heist4_Tat_005_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_006",
+      "label": "Music Locker",
+      "hash_male": "MP_Heist4_Tat_006_M",
+      "hash_female": "MP_Heist4_Tat_006_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_007",
+      "label": "Skeleton DJ",
+      "hash_male": "MP_Heist4_Tat_007_M",
+      "hash_female": "MP_Heist4_Tat_007_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_008",
+      "label": "Smiley Glitch",
+      "hash_male": "MP_Heist4_Tat_008_M",
+      "hash_female": "MP_Heist4_Tat_008_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_011",
+      "label": "Soulwax",
+      "hash_male": "MP_Heist4_Tat_011_M",
+      "hash_female": "MP_Heist4_Tat_011_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_012",
+      "label": "Still Slipping",
+      "hash_male": "MP_Heist4_Tat_012_M",
+      "hash_female": "MP_Heist4_Tat_012_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_026",
+      "label": "Shark Water",
+      "hash_male": "MP_Heist4_Tat_026_M",
+      "hash_female": "MP_Heist4_Tat_026_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_031",
+      "label": "Octopus Shades",
+      "hash_male": "MP_Heist4_Tat_031_M",
+      "hash_female": "MP_Heist4_Tat_031_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_H4_032",
+      "label": "K.U.L.T. 99.1 FM",
+      "hash_male": "MP_Heist4_Tat_032_M",
+      "hash_female": "MP_Heist4_Tat_032_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpheist4_overlays"
+    },
+    {
+      "name": "TAT_HP_001",
+      "label": "Single Arrow",
+      "hash_male": "FM_Hip_M_Tat_001",
+      "hash_female": "FM_Hip_F_Tat_001",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_004",
+      "label": "Bone",
+      "hash_male": "FM_Hip_M_Tat_004",
+      "hash_female": "FM_Hip_F_Tat_004",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_008",
+      "label": "Cube",
+      "hash_male": "FM_Hip_M_Tat_008",
+      "hash_female": "FM_Hip_F_Tat_008",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_010",
+      "label": "Horseshoe",
+      "hash_male": "FM_Hip_M_Tat_010",
+      "hash_female": "FM_Hip_F_Tat_010",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_014",
+      "label": "Spray Can",
+      "hash_male": "FM_Hip_M_Tat_014",
+      "hash_female": "FM_Hip_F_Tat_014",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_017",
+      "label": "Eye Triangle",
+      "hash_male": "FM_Hip_M_Tat_017",
+      "hash_female": "FM_Hip_F_Tat_017",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_018",
+      "label": "Origami",
+      "hash_male": "FM_Hip_M_Tat_018",
+      "hash_female": "FM_Hip_F_Tat_018",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_020",
+      "label": "Geo Pattern",
+      "hash_male": "FM_Hip_M_Tat_020",
+      "hash_female": "FM_Hip_F_Tat_020",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_022",
+      "label": "Pencil",
+      "hash_male": "FM_Hip_M_Tat_022",
+      "hash_female": "FM_Hip_F_Tat_022",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_023",
+      "label": "Smiley",
+      "hash_male": "FM_Hip_M_Tat_023",
+      "hash_female": "FM_Hip_F_Tat_023",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_036",
+      "label": "Shapes",
+      "hash_male": "FM_Hip_M_Tat_036",
+      "hash_female": "FM_Hip_F_Tat_036",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_044",
+      "label": "Triangle Black",
+      "hash_male": "FM_Hip_M_Tat_044",
+      "hash_female": "FM_Hip_F_Tat_044",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_HP_045",
+      "label": "Mesh Band",
+      "hash_male": "FM_Hip_M_Tat_045",
+      "hash_female": "FM_Hip_F_Tat_045",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mphipster_overlays"
+    },
+    {
+      "name": "TAT_IE_003",
+      "label": "Mechanical Sleeve",
+      "hash_male": "MP_MP_ImportExport_Tat_003_M",
+      "hash_female": "MP_MP_ImportExport_Tat_003_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_005",
+      "label": "Dialed In",
+      "hash_male": "MP_MP_ImportExport_Tat_005_M",
+      "hash_female": "MP_MP_ImportExport_Tat_005_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_006",
+      "label": "Engulfed Block",
+      "hash_male": "MP_MP_ImportExport_Tat_006_M",
+      "hash_female": "MP_MP_ImportExport_Tat_006_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_IE_007",
+      "label": "Drive Forever",
+      "hash_male": "MP_MP_ImportExport_Tat_007_M",
+      "hash_female": "MP_MP_ImportExport_Tat_007_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpimportexport_overlays"
+    },
+    {
+      "name": "TAT_S2_003",
+      "label": "Lady Vamp",
+      "hash_male": "MP_LR_Tat_003_M",
+      "hash_female": "MP_LR_Tat_003_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_028",
+      "label": "Loving Los Muertos",
+      "hash_male": "MP_LR_Tat_028_M",
+      "hash_female": "MP_LR_Tat_028_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S2_035",
+      "label": "Black Tears",
+      "hash_male": "MP_LR_Tat_035_M",
+      "hash_female": "MP_LR_Tat_035_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mplowrider2_overlays"
+    },
+    {
+      "name": "TAT_S1_015",
+      "label": "Seductress",
+      "hash_male": "MP_LR_Tat_015_M",
+      "hash_female": "MP_LR_Tat_015_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mplowrider_overlays"
+    },
+    {
+      "name": "TAT_L2_010",
+      "label": "Intrometric",
+      "hash_male": "MP_LUXE_TAT_010_M",
+      "hash_female": "MP_LUXE_TAT_010_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_017",
+      "label": "Heavenly Deity",
+      "hash_male": "MP_LUXE_TAT_017_M",
+      "hash_female": "MP_LUXE_TAT_017_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_026",
+      "label": "Floral Print",
+      "hash_male": "MP_LUXE_TAT_026_M",
+      "hash_female": "MP_LUXE_TAT_026_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_L2_030",
+      "label": "Geometric Design",
+      "hash_male": "MP_LUXE_TAT_030_M",
+      "hash_female": "MP_LUXE_TAT_030_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpluxe2_overlays"
+    },
+    {
+      "name": "TAT_LX_004",
+      "label": "Floral Raven",
+      "hash_male": "MP_LUXE_TAT_004_M",
+      "hash_female": "MP_LUXE_TAT_004_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_013",
+      "label": "Mermaid Harpist",
+      "hash_male": "MP_LUXE_TAT_013_M",
+      "hash_female": "MP_LUXE_TAT_013_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_LX_019",
+      "label": "Geisha Bloom",
+      "hash_male": "MP_LUXE_TAT_019_M",
+      "hash_female": "MP_LUXE_TAT_019_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpluxe_overlays"
+    },
+    {
+      "name": "TAT_FX_000",
+      "label": "Hood Skeleton",
+      "hash_male": "MP_Security_Tat_000_M",
+      "hash_female": "MP_Security_Tat_000_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_005",
+      "label": "Peacock",
+      "hash_male": "MP_Security_Tat_005_M",
+      "hash_female": "MP_Security_Tat_005_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_007",
+      "label": "Ballas 4 Life",
+      "hash_male": "MP_Security_Tat_007_M",
+      "hash_female": "MP_Security_Tat_007_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_009",
+      "label": "Ascension",
+      "hash_male": "MP_Security_Tat_009_M",
+      "hash_female": "MP_Security_Tat_009_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_012",
+      "label": "Zombie Rhymes",
+      "hash_male": "MP_Security_Tat_012_M",
+      "hash_female": "MP_Security_Tat_012_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_FX_020",
+      "label": "Dog Fist",
+      "hash_male": "MP_Security_Tat_020_M",
+      "hash_female": "MP_Security_Tat_020_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsecurity_overlays"
+    },
+    {
+      "name": "TAT_SM_001",
+      "label": "Crackshot",
+      "hash_male": "MP_Smuggler_Tattoo_001_M",
+      "hash_female": "MP_Smuggler_Tattoo_001_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_005",
+      "label": "Mutiny",
+      "hash_male": "MP_Smuggler_Tattoo_005_M",
+      "hash_female": "MP_Smuggler_Tattoo_005_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_SM_023",
+      "label": "Stylized Kraken",
+      "hash_male": "MP_Smuggler_Tattoo_023_M",
+      "hash_female": "MP_Smuggler_Tattoo_023_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpsmuggler_overlays"
+    },
+    {
+      "name": "TAT_ST_003",
+      "label": "Poison Wrench",
+      "hash_male": "MP_MP_Stunt_tat_003_M",
+      "hash_female": "MP_MP_Stunt_tat_003_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_009",
+      "label": "Arachnid of Death",
+      "hash_male": "MP_MP_Stunt_tat_009_M",
+      "hash_female": "MP_MP_Stunt_tat_009_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_010",
+      "label": "Grave Vulture",
+      "hash_male": "MP_MP_Stunt_tat_010_M",
+      "hash_female": "MP_MP_Stunt_tat_010_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_016",
+      "label": "Coffin Racer",
+      "hash_male": "MP_MP_Stunt_tat_016_M",
+      "hash_female": "MP_MP_Stunt_tat_016_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_036",
+      "label": "Biker Stallion",
+      "hash_male": "MP_MP_Stunt_tat_036_M",
+      "hash_female": "MP_MP_Stunt_tat_036_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_038",
+      "label": "One Down Five Up",
+      "hash_male": "MP_MP_Stunt_tat_038_M",
+      "hash_female": "MP_MP_Stunt_tat_038_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_ST_049",
+      "label": "Seductive Mechanic",
+      "hash_male": "MP_MP_Stunt_tat_049_M",
+      "hash_female": "MP_MP_Stunt_tat_049_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpstunt_overlays"
+    },
+    {
+      "name": "TAT_VW_004",
+      "label": "Lady Luck",
+      "hash_male": "MP_Vinewood_Tat_004_M",
+      "hash_female": "MP_Vinewood_Tat_004_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_018",
+      "label": "The Gambler's Life",
+      "hash_male": "MP_Vinewood_Tat_018_M",
+      "hash_female": "MP_Vinewood_Tat_018_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_025",
+      "label": "Queen of Roses",
+      "hash_male": "MP_Vinewood_Tat_025_M",
+      "hash_female": "MP_Vinewood_Tat_025_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_VW_028",
+      "label": "Skull & Aces",
+      "hash_male": "MP_Vinewood_Tat_028_M",
+      "hash_female": "MP_Vinewood_Tat_028_F",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "mpvinewood_overlays"
+    },
+    {
+      "name": "TAT_FM_010",
+      "label": "Grim Reaper Smoking Gun",
+      "hash_male": "FM_Tat_Award_M_002",
+      "hash_female": "FM_Tat_Award_F_002",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_018",
+      "label": "Ride or Die",
+      "hash_male": "FM_Tat_Award_M_010",
+      "hash_female": "FM_Tat_Award_F_010",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_204",
+      "label": "Brotherhood",
+      "hash_male": "FM_Tat_M_000",
+      "hash_female": "FM_Tat_F_000",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_205",
+      "label": "Dragons",
+      "hash_male": "FM_Tat_M_001",
+      "hash_female": "FM_Tat_F_001",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_206",
+      "label": "Dragons and Skull",
+      "hash_male": "FM_Tat_M_003",
+      "hash_female": "FM_Tat_F_003",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_207",
+      "label": "Flower Mural",
+      "hash_male": "FM_Tat_M_014",
+      "hash_female": "FM_Tat_F_014",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_208",
+      "label": "Serpent Skull",
+      "hash_male": "FM_Tat_M_018",
+      "hash_female": "FM_Tat_F_018",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_228",
+      "label": "Virgin Mary",
+      "hash_male": "FM_Tat_M_027",
+      "hash_female": "FM_Tat_F_027",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_229",
+      "label": "Mermaid",
+      "hash_male": "FM_Tat_M_028",
+      "hash_female": "FM_Tat_F_028",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_239",
+      "label": "Dagger",
+      "hash_male": "FM_Tat_M_038",
+      "hash_female": "FM_Tat_F_038",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    },
+    {
+      "name": "TAT_FM_247",
+      "label": "Lion",
+      "hash_male": "FM_Tat_M_047",
+      "hash_female": "FM_Tat_F_047",
+      "zone": "ZONE_RIGHT_ARM",
+      "collection": "multiplayer_overlays"
+    }
+  ],
+  "ZONE_HAIR": [
+    {
+        "name": "hair-0-186",
+        "label": "hair-0-186",
+        "hash_male": "FM_M_Hair_003_a",
+        "hash_female": "FM_F_Hair_003_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-187",
+        "label": "hair-0-187",
+        "hash_male": "FM_M_Hair_003_b",
+        "hash_female": "FM_F_Hair_003_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-188",
+        "label": "hair-0-188",
+        "hash_male": "FM_M_Hair_003_c",
+        "hash_female": "FM_F_Hair_003_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-189",
+        "label": "hair-0-189",
+        "hash_male": "FM_M_Hair_003_d",
+        "hash_female": "FM_F_Hair_003_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-190",
+        "label": "hair-0-190",
+        "hash_male": "FM_M_Hair_003_e",
+        "hash_female": "FM_F_Hair_003_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-156",
+        "label": "hair-0-156",
+        "hash_male": "FM_M_Hair_005_a",
+        "hash_female": "FM_F_Hair_005_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-157",
+        "label": "hair-0-157",
+        "hash_male": "FM_M_Hair_005_b",
+        "hash_female": "FM_F_Hair_005_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-158",
+        "label": "hair-0-158",
+        "hash_male": "FM_M_Hair_005_c",
+        "hash_female": "FM_F_Hair_005_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-159",
+        "label": "hair-0-159",
+        "hash_male": "FM_M_Hair_005_d",
+        "hash_female": "FM_F_Hair_005_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-160",
+        "label": "hair-0-160",
+        "hash_male": "FM_M_Hair_005_e",
+        "hash_female": "FM_F_Hair_005_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-191",
+        "label": "hair-0-191",
+        "hash_male": "FM_M_Hair_006_a",
+        "hash_female": "FM_F_Hair_006_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-192",
+        "label": "hair-0-192",
+        "hash_male": "FM_M_Hair_006_b",
+        "hash_female": "FM_F_Hair_006_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-193",
+        "label": "hair-0-193",
+        "hash_male": "FM_M_Hair_006_c",
+        "hash_female": "FM_F_Hair_006_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-194",
+        "label": "hair-0-194",
+        "hash_male": "FM_M_Hair_006_d",
+        "hash_female": "FM_F_Hair_006_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-195",
+        "label": "hair-0-195",
+        "hash_male": "FM_M_Hair_006_e",
+        "hash_female": "FM_F_Hair_006_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-166",
+        "label": "hair-0-166",
+        "hash_male": "FM_M_Hair_013_a",
+        "hash_female": "FM_F_Hair_013_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-167",
+        "label": "hair-0-167",
+        "hash_male": "FM_M_Hair_013_b",
+        "hash_female": "FM_F_Hair_013_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-168",
+        "label": "hair-0-168",
+        "hash_male": "FM_M_Hair_013_c",
+        "hash_female": "FM_F_Hair_013_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-169",
+        "label": "hair-0-169",
+        "hash_male": "FM_M_Hair_013_d",
+        "hash_female": "FM_F_Hair_013_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-170",
+        "label": "hair-0-170",
+        "hash_male": "FM_M_Hair_013_e",
+        "hash_female": "FM_F_Hair_013_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-171",
+        "label": "hair-0-171",
+        "hash_male": "FM_M_Hair_014_a",
+        "hash_female": "FM_F_Hair_014_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-172",
+        "label": "hair-0-172",
+        "hash_male": "FM_M_Hair_014_b",
+        "hash_female": "FM_F_Hair_014_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-173",
+        "label": "hair-0-173",
+        "hash_male": "FM_M_Hair_014_c",
+        "hash_female": "FM_F_Hair_014_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-174",
+        "label": "hair-0-174",
+        "hash_male": "FM_M_Hair_014_d",
+        "hash_female": "FM_F_Hair_014_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-175",
+        "label": "hair-0-175",
+        "hash_male": "FM_M_Hair_014_e",
+        "hash_female": "FM_F_Hair_014_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-201",
+        "label": "hair-0-201",
+        "hash_male": "FM_M_Hair_long_a",
+        "hash_female": "FM_F_Hair_long_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-202",
+        "label": "hair-0-202",
+        "hash_male": "FM_M_Hair_long_b",
+        "hash_female": "FM_F_Hair_long_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-203",
+        "label": "hair-0-203",
+        "hash_male": "FM_M_Hair_long_c",
+        "hash_female": "FM_F_Hair_long_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-204",
+        "label": "hair-0-204",
+        "hash_male": "FM_M_Hair_long_d",
+        "hash_female": "FM_F_Hair_long_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-205",
+        "label": "hair-0-205",
+        "hash_male": "FM_M_Hair_long_e",
+        "hash_female": "FM_F_Hair_long_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-181",
+        "label": "hair-0-181",
+        "hash_male": "FM_M_Hair_001_a",
+        "hash_female": "FM_F_Hair_001_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-182",
+        "label": "hair-0-182",
+        "hash_male": "FM_M_Hair_001_b",
+        "hash_female": "FM_F_Hair_001_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-183",
+        "label": "hair-0-183",
+        "hash_male": "FM_M_Hair_001_c",
+        "hash_female": "FM_F_Hair_001_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-184",
+        "label": "hair-0-184",
+        "hash_male": "FM_M_Hair_001_d",
+        "hash_female": "FM_F_Hair_001_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-185",
+        "label": "hair-0-185",
+        "hash_male": "FM_M_Hair_001_e",
+        "hash_female": "FM_F_Hair_001_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-196",
+        "label": "hair-0-196",
+        "hash_male": "FM_M_Hair_008_a",
+        "hash_female": "FM_F_Hair_008_a",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-197",
+        "label": "hair-0-197",
+        "hash_male": "FM_M_Hair_008_b",
+        "hash_female": "FM_F_Hair_008_b",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-198",
+        "label": "hair-0-198",
+        "hash_male": "FM_M_Hair_008_c",
+        "hash_female": "FM_F_Hair_008_c",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-199",
+        "label": "hair-0-199",
+        "hash_male": "FM_M_Hair_008_d",
+        "hash_female": "FM_F_Hair_008_d",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-200",
+        "label": "hair-0-200",
+        "hash_male": "FM_M_Hair_008_e",
+        "hash_female": "FM_F_Hair_008_e",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-304",
+        "label": "hair-0-304",
+        "hash_male": "NG_M_Hair_001",
+        "hash_female": "NG_F_Hair_001",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-305",
+        "label": "hair-0-305",
+        "hash_male": "NG_M_Hair_002",
+        "hash_female": "NG_F_Hair_002",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-306",
+        "label": "hair-0-306",
+        "hash_male": "NG_M_Hair_003",
+        "hash_female": "NG_F_Hair_003",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-307",
+        "label": "hair-0-307",
+        "hash_male": "NG_M_Hair_004",
+        "hash_female": "NG_F_Hair_004",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-308",
+        "label": "hair-0-308",
+        "hash_male": "NG_M_Hair_005",
+        "hash_female": "NG_F_Hair_005",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-309",
+        "label": "hair-0-309",
+        "hash_male": "NG_M_Hair_006",
+        "hash_female": "NG_F_Hair_006",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-310",
+        "label": "hair-0-310",
+        "hash_male": "NG_M_Hair_007",
+        "hash_female": "NG_F_Hair_007",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-311",
+        "label": "hair-0-311",
+        "hash_male": "NG_M_Hair_008",
+        "hash_female": "NG_F_Hair_008",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-312",
+        "label": "hair-0-312",
+        "hash_male": "NG_M_Hair_009",
+        "hash_female": "NG_F_Hair_009",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-313",
+        "label": "hair-0-313",
+        "hash_male": "NG_M_Hair_010",
+        "hash_female": "NG_F_Hair_010",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-314",
+        "label": "hair-0-314",
+        "hash_male": "NG_M_Hair_011",
+        "hash_female": "NG_F_Hair_011",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-315",
+        "label": "hair-0-315",
+        "hash_male": "NG_M_Hair_012",
+        "hash_female": "NG_F_Hair_012",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-316",
+        "label": "hair-0-316",
+        "hash_male": "NG_M_Hair_013",
+        "hash_female": "NG_F_Hair_013",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-317",
+        "label": "hair-0-317",
+        "hash_male": "NG_M_Hair_014",
+        "hash_female": "NG_F_Hair_014",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-318",
+        "label": "hair-0-318",
+        "hash_male": "NG_M_Hair_015",
+        "hash_female": "NG_F_Hair_015",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-319",
+        "label": "hair-0-319",
+        "hash_male": "NGBea_M_Hair_000",
+        "hash_female": "NGBea_F_Hair_000",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-320",
+        "label": "hair-0-320",
+        "hash_male": "NGBea_M_Hair_001",
+        "hash_female": "NGBea_F_Hair_001",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-321",
+        "label": "hair-0-321",
+        "hash_male": "NGBus_M_Hair_000",
+        "hash_female": "NGBus_F_Hair_000",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-322",
+        "label": "hair-0-322",
+        "hash_male": "NGBus_M_Hair_001",
+        "hash_female": "NGBus_F_Hair_001",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-323",
+        "label": "hair-0-323",
+        "hash_male": "NGHip_M_Hair_000",
+        "hash_female": "NGHip_F_Hair_000",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-324",
+        "label": "hair-0-324",
+        "hash_male": "NGHip_M_Hair_001",
+        "hash_female": "NGHip_F_Hair_001",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-0-325",
+        "label": "hair-0-325",
+        "hash_male": "NGInd_M_Hair_000",
+        "hash_female": "NGInd_F_Hair_000",
+        "zone": "ZONE_HAIR",
+        "collection": "multiplayer_overlays"
+    },
+    {
+        "name": "hair-3-33",
+        "label": "hair-3-33",
+        "hash_male": "FM_Hair_Muzz",
+        "hash_female": "FM_Hair_Fuzz",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBeach_overlays"
+    },
+    {
+        "name": "hair-4-30",
+        "label": "hair-4-30",
+        "hash_male": "FM_Bus_M_Hair_a",
+        "hash_female": "FM_Bus_F_Hair_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-31",
+        "label": "hair-4-31",
+        "hash_male": "FM_Bus_M_Hair_b",
+        "hash_female": "FM_Bus_F_Hair_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-32",
+        "label": "hair-4-32",
+        "hash_male": "FM_Bus_M_Hair_c",
+        "hash_female": "FM_Bus_F_Hair_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-33",
+        "label": "hair-4-33",
+        "hash_male": "FM_Bus_M_Hair_d",
+        "hash_female": "FM_Bus_F_Hair_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-34",
+        "label": "hair-4-34",
+        "hash_male": "FM_Bus_M_Hair_e",
+        "hash_female": "FM_Bus_F_Hair_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-35",
+        "label": "hair-4-35",
+        "hash_male": "FM_Bus_M_Hair_000_a",
+        "hash_female": "FM_Bus_F_Hair_000_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-36",
+        "label": "hair-4-36",
+        "hash_male": "FM_Bus_M_Hair_000_b",
+        "hash_female": "FM_Bus_F_Hair_000_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-37",
+        "label": "hair-4-37",
+        "hash_male": "FM_Bus_M_Hair_000_c",
+        "hash_female": "FM_Bus_F_Hair_000_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-38",
+        "label": "hair-4-38",
+        "hash_male": "FM_Bus_M_Hair_000_d",
+        "hash_female": "FM_Bus_F_Hair_000_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-39",
+        "label": "hair-4-39",
+        "hash_male": "FM_Bus_M_Hair_000_e",
+        "hash_female": "FM_Bus_F_Hair_000_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-40",
+        "label": "hair-4-40",
+        "hash_male": "FM_Bus_M_Hair_001_a",
+        "hash_female": "FM_Bus_F_Hair_001_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-41",
+        "label": "hair-4-41",
+        "hash_male": "FM_Bus_M_Hair_001_b",
+        "hash_female": "FM_Bus_F_Hair_001_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-42",
+        "label": "hair-4-42",
+        "hash_male": "FM_Bus_M_Hair_001_c",
+        "hash_female": "FM_Bus_F_Hair_001_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-43",
+        "label": "hair-4-43",
+        "hash_male": "FM_Bus_M_Hair_001_d",
+        "hash_female": "FM_Bus_F_Hair_001_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-4-44",
+        "label": "hair-4-44",
+        "hash_male": "FM_Bus_M_Hair_001_e",
+        "hash_female": "FM_Bus_F_Hair_001_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBusiness_overlays"
+    },
+    {
+        "name": "hair-9-10",
+        "label": "hair-9-10",
+        "hash_male": "FM_Hip_M_Hair_000_a",
+        "hash_female": "FM_Hip_F_Hair_000_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-11",
+        "label": "hair-9-11",
+        "hash_male": "FM_Hip_M_Hair_000_b",
+        "hash_female": "FM_Hip_F_Hair_000_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-12",
+        "label": "hair-9-12",
+        "hash_male": "FM_Hip_M_Hair_000_c",
+        "hash_female": "FM_Hip_F_Hair_000_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-13",
+        "label": "hair-9-13",
+        "hash_male": "FM_Hip_M_Hair_000_d",
+        "hash_female": "FM_Hip_F_Hair_000_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-14",
+        "label": "hair-9-14",
+        "hash_male": "FM_Hip_M_Hair_000_e",
+        "hash_female": "FM_Hip_F_Hair_000_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-5",
+        "label": "hair-9-5",
+        "hash_male": "FM_Hip_M_Hair_001_a",
+        "hash_female": "FM_Hip_F_Hair_001_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-6",
+        "label": "hair-9-6",
+        "hash_male": "FM_Hip_M_Hair_001_b",
+        "hash_female": "FM_Hip_F_Hair_001_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-7",
+        "label": "hair-9-7",
+        "hash_male": "FM_Hip_M_Hair_001_c",
+        "hash_female": "FM_Hip_F_Hair_001_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-8",
+        "label": "hair-9-8",
+        "hash_male": "FM_Hip_M_Hair_001_d",
+        "hash_female": "FM_Hip_F_Hair_001_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-9",
+        "label": "hair-9-9",
+        "hash_male": "FM_Hip_M_Hair_001_e",
+        "hash_female": "FM_Hip_F_Hair_001_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-187",
+        "label": "hair-9-187",
+        "hash_male": "FM_M_Hair_017_a",
+        "hash_female": "FM_F_Hair_017_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-188",
+        "label": "hair-9-188",
+        "hash_male": "FM_M_Hair_017_b",
+        "hash_female": "FM_F_Hair_017_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-189",
+        "label": "hair-9-189",
+        "hash_male": "FM_M_Hair_017_c",
+        "hash_female": "FM_F_Hair_017_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-190",
+        "label": "hair-9-190",
+        "hash_male": "FM_M_Hair_017_d",
+        "hash_female": "FM_F_Hair_017_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-191",
+        "label": "hair-9-191",
+        "hash_male": "FM_M_Hair_017_e",
+        "hash_female": "FM_F_Hair_017_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-192",
+        "label": "hair-9-192",
+        "hash_male": "FM_M_Hair_020_a",
+        "hash_female": "FM_F_Hair_020_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-193",
+        "label": "hair-9-193",
+        "hash_male": "FM_M_Hair_020_b",
+        "hash_female": "FM_F_Hair_020_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-194",
+        "label": "hair-9-194",
+        "hash_male": "FM_M_Hair_020_c",
+        "hash_female": "FM_F_Hair_020_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-195",
+        "label": "hair-9-195",
+        "hash_male": "FM_M_Hair_020_d",
+        "hash_female": "FM_F_Hair_020_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-196",
+        "label": "hair-9-196",
+        "hash_male": "FM_M_Hair_020_e",
+        "hash_female": "FM_F_Hair_020_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-197",
+        "label": "hair-9-197",
+        "hash_male": "FM_Disc_M_Hair_001_a",
+        "hash_female": "FM_Disc_F_Hair_001_a",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-198",
+        "label": "hair-9-198",
+        "hash_male": "FM_Disc_M_Hair_001_b",
+        "hash_female": "FM_Disc_F_Hair_001_b",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-199",
+        "label": "hair-9-199",
+        "hash_male": "FM_Disc_M_Hair_001_c",
+        "hash_female": "FM_Disc_F_Hair_001_c",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-200",
+        "label": "hair-9-200",
+        "hash_male": "FM_Disc_M_Hair_001_d",
+        "hash_female": "FM_Disc_F_Hair_001_d",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-9-201",
+        "label": "hair-9-201",
+        "hash_male": "FM_Disc_M_Hair_001_e",
+        "hash_female": "FM_Disc_F_Hair_001_e",
+        "zone": "ZONE_HAIR",
+        "collection": "mpHipster_overlays"
+    },
+    {
+        "name": "hair-18-81",
+        "label": "hair-18-81",
+        "hash_male": "LR_M_Hair_000",
+        "hash_female": "LR_F_Hair_000",
+        "zone": "ZONE_HAIR",
+        "collection": "mpLowrider_overlays"
+    },
+    {
+        "name": "hair-18-82",
+        "label": "hair-18-82",
+        "hash_male": "LR_M_Hair_001",
+        "hash_female": "LR_F_Hair_001",
+        "zone": "ZONE_HAIR",
+        "collection": "mpLowrider_overlays"
+    },
+    {
+        "name": "hair-18-83",
+        "label": "hair-18-83",
+        "hash_male": "LR_M_Hair_002",
+        "hash_female": "LR_F_Hair_002",
+        "zone": "ZONE_HAIR",
+        "collection": "mpLowrider_overlays"
+    },
+    {
+        "name": "hair-19-88",
+        "label": "hair-19-88",
+        "hash_male": "LR_M_Hair_003",
+        "hash_female": "LR_F_Hair_003",
+        "zone": "ZONE_HAIR",
+        "collection": "mpLowrider2_overlays"
+    },
+    {
+        "name": "hair-19-91",
+        "label": "hair-19-91",
+        "hash_male": "LR_M_Hair_004",
+        "hash_female": "LR_F_Hair_004",
+        "zone": "ZONE_HAIR",
+        "collection": "mpLowrider2_overlays"
+    },
+    {
+        "name": "hair-19-93",
+        "label": "hair-19-93",
+        "hash_male": "LR_M_Hair_006",
+        "hash_female": "LR_F_Hair_006",
+        "zone": "ZONE_HAIR",
+        "collection": "mpLowrider2_overlays"
+    },
+    {
+        "name": "hair-19-92",
+        "label": "hair-19-92",
+        "hash_male": "LR_M_Hair_005",
+        "hash_female": "LR_F_Hair_005",
+        "zone": "ZONE_HAIR",
+        "collection": "mpLowrider2_overlays"
+    },
+    {
+        "name": "hair-24-5",
+        "label": "hair-24-5",
+        "hash_male": "MP_Biker_Hair_000_M",
+        "hash_female": "MP_Biker_Hair_000_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBiker_overlays"
+    },
+    {
+        "name": "hair-24-7",
+        "label": "hair-24-7",
+        "hash_male": "MP_Biker_Hair_001_M",
+        "hash_female": "MP_Biker_Hair_001_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBiker_overlays"
+    },
+    {
+        "name": "hair-24-9",
+        "label": "hair-24-9",
+        "hash_male": "MP_Biker_Hair_002_M",
+        "hash_female": "MP_Biker_Hair_002_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBiker_overlays"
+    },
+    {
+        "name": "hair-24-11",
+        "label": "hair-24-11",
+        "hash_male": "MP_Biker_Hair_003_M",
+        "hash_female": "MP_Biker_Hair_003_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBiker_overlays"
+    },
+    {
+        "name": "hair-24-13",
+        "label": "hair-24-13",
+        "hash_male": "MP_Biker_Hair_004_M",
+        "hash_female": "MP_Biker_Hair_004_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBiker_overlays"
+    },
+    {
+        "name": "hair-24-15",
+        "label": "hair-24-15",
+        "hash_male": "MP_Biker_Hair_005_M",
+        "hash_female": "MP_Biker_Hair_005_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBiker_overlays"
+    },
+    {
+        "name": "hair-24-17",
+        "label": "hair-24-17",
+        "hash_male": "MP_Biker_Hair_006_M",
+        "hash_female": "MP_Biker_Hair_006_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpBiker_overlays"
+    },
+    {
+        "name": "hair-25-52",
+        "label": "hair-25-52",
+        "hash_male": "MP_Gunrunning_Hair_M_000_M",
+        "hash_female": "MP_Gunrunning_Hair_F_000_M",
+        "zone": "ZONE_HAIR",
+        "collection": "mpGunrunning_overlays"
+    },
+    {
+        "name": "hair-25-53",
+        "label": "hair-25-53",
+        "hash_male": "MP_Gunrunning_Hair_M_001_M",
+        "hash_female": "MP_Gunrunning_Hair_F_001_M",
+        "zone": "ZONE_HAIR",
+        "collection": "mpGunrunning_overlays"
+    },
+    {
+        "name": "hair-25-54",
+        "label": "hair-25-54",
+        "hash_male": "MP_Gunrunning_Hair_M_000_F",
+        "hash_female": "MP_Gunrunning_Hair_F_000_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpGunrunning_overlays"
+    },
+    {
+        "name": "hair-25-55",
+        "label": "hair-25-55",
+        "hash_male": "MP_Gunrunning_Hair_M_001_F",
+        "hash_female": "MP_Gunrunning_Hair_F_001_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpGunrunning_overlays"
+    },
+    {
+        "name": "hair-29-0",
+        "label": "hair-29-0",
+        "hash_male": "MP_Vinewood_Hair_M_000_M",
+        "hash_female": "MP_Vinewood_Hair_F_000_M",
+        "zone": "ZONE_HAIR",
+        "collection": "mpVinewood_overlays"
+    },
+    {
+        "name": "hair-29-1",
+        "label": "hair-29-1",
+        "hash_male": "MP_Vinewood_Hair_M_000_F",
+        "hash_female": "MP_Vinewood_Hair_F_000_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpVinewood_overlays"
+    },
+    {
+        "name": "hair-31-0",
+        "label": "hair-31-0",
+        "hash_male": "MP_Tuner_Hair_000_M",
+        "hash_female": "MP_Tuner_Hair_000_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpTuner_overlays"
+    },
+    {
+        "name": "hair-31-1",
+        "label": "hair-31-1",
+        "hash_male": "MP_Tuner_Hair_001_M",
+        "hash_female": "MP_Tuner_Hair_001_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpTuner_overlays"
+    },
+    {
+        "name": "hair-32-4",
+        "label": "hair-32-4",
+        "hash_male": "MP_Security_Hair_000_M",
+        "hash_female": "MP_Security_Hair_000_F",
+        "zone": "ZONE_HAIR",
+        "collection": "mpSecurity_overlays"
+    }
+  ]
+}

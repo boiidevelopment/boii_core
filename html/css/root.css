@@ -1,0 +1,45 @@
+/*
+     ____   ____ _____ _____   _   _____  ________      ________ _      ____  _____  __  __ ______ _   _ _______ 
+    |  _ \ / __ \_   _|_   _| | | |  __ \|  ____\ \    / /  ____| |    / __ \|  __ \|  \/  |  ____| \ | |__   __|
+    | |_) | |  | || |   | |   | | | |  | | |__   \ \  / /| |__  | |   | |  | | |__) | \  / | |__  |  \| |  | |   
+    |  _ <| |  | || |   | |   | | | |  | |  __|   \ \/ / |  __| | |   | |  | |  ___/| |\/| |  __| | . ` |  | |   
+    | |_) | |__| || |_ _| |_  | | | |__| | |____   \  /  | |____| |___| |__| | |    | |  | | |____| |\  |  | |   
+    |____/ \____/_____|_____| | | |_____/|______|   \/   |______|______\____/|_|    |_|  |_|______|_| \_|  |_|   
+                              | |                                                                                
+                              |_|         ROLEPLAY FRAMEWORK BASE
+*/
+
+/* 
+    Import fonts:
+    You can import additional fonts here  
+*/
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Open+Sans&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Nova+Square&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Dancing+Script&family=Nova+Square&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+/* 
+    Importing custom fonts:
+    Place your font into html/assets/fonts/.. and follow format below 
+*/
+@font-face {
+    font-family: 'Digital';
+    src: url('../assets/fonts/digital-7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 
+    Root settings:
+    Currently empty however this will be updated to hold colour pallete data for UI elements to allow for easier editing 
+
+*/
+:root {
+    
+}
