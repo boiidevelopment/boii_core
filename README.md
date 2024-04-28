@@ -1,6 +1,12 @@
 # BOII Development - FiveM Framework Core
 
-# **THIS IS CURRENTLY BEING WORKED ON AND WILL BE UPLOADED AS SOON AS POSSIBLE**
+# THE FRAMEWORK CORE IS STILL IN ALPHA STAGES IT WILL BE IMPROVED ON. SOME BUGS ARE TOO BE EXPECTED!
+
+![boiicover](https://github.com/boiidevelopment/boii_core/assets/90377400/cb754439-9d8c-4855-8d3a-ebc2c28e9578)
+
+## Preview
+
+**[Alpha Preview](https://www.youtube.com/watch?v=lDdgZiW3qdE)**
 
 ## 🌍 Overview
 
